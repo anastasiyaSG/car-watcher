@@ -38,6 +38,11 @@ jobs:
           SMTP_PASS: ${{ secrets.SMTP_PASS }}
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
 
+      - name: Check storage.json
+        run: |
+          echo "📊 Storage.json contents:"
+          cat storage.json
+
       - name: Commit and push storage.json
         run: |
           git config --local user.email "action@github.com"
@@ -47,3 +52,12 @@ jobs:
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Workflow Summary
+        if: always()
+        run: |
+          echo "✅ Car Watcher Workflow Summary"
+          echo "================================"
+          echo "⏰ Run time: $(date +'%Y-%m-%d %H:%M:%S')"
+          echo "📧 Email recipients: ${{ secrets.EMAIL_TO }}"
+          echo "🔍 Check above logs for email status"
