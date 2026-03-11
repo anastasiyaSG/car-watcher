@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-03-09T16:47:11.400529",
-  "total_cars": 44,
+  "last_scraped": "2026-03-11T07:59:31.193554",
+  "total_cars": 46,
   "nissan_count": 25,
-  "kia_count": 19,
+  "kia_count": 21,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -355,6 +355,22 @@
       "link": "https://kia.bg/bg/used-cars/298/kia-stonic-1-0-turbo-ex-aut",
       "source": "kia",
       "scraped_date": "2026-03-09T16:47:01.994440"
+    },
+    {
+      "id": "/bg/used-cars/556/kia-ceed-1-6-crdi-ex",
+      "title": "Kia Ceed 1.6  crdi  EX",
+      "price": "Цена 8990 € с ДДС / 17582.91 лв. с ДДС",
+      "link": "https://kia.bg/bg/used-cars/556/kia-ceed-1-6-crdi-ex",
+      "source": "kia",
+      "scraped_date": "2026-03-11T07:59:22.072153"
+    },
+    {
+      "id": "/bg/used-cars/422/kia-stonic-1-0-turbo-6mt-ex",
+      "title": "Kia Stonic 1.0 Turbo  6mt  EX",
+      "price": "Цена 11990 € не се начислява ДДС / 23450.40 лв. не се начислява ДДС",
+      "link": "https://kia.bg/bg/used-cars/422/kia-stonic-1-0-turbo-6mt-ex",
+      "source": "kia",
+      "scraped_date": "2026-03-11T07:59:22.111877"
     }
   ]
 }
