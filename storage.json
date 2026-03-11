@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-03-11T09:33:40.516654",
-  "total_cars": 47,
+  "last_scraped": "2026-03-11T11:53:07.653480",
+  "total_cars": 48,
   "nissan_count": 25,
-  "kia_count": 22,
+  "kia_count": 23,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -379,6 +379,14 @@
       "link": "https://kia.bg/bg/used-cars/496/kia-niro-1-6-hev",
       "source": "kia",
       "scraped_date": "2026-03-11T09:33:31.727015"
+    },
+    {
+      "id": "/bg/used-cars/104/kia-sportage-1-6-t-gdi-lx-4-wd",
+      "title": "KIA SPORTAGE 1.6 T-gdi LX  4 WD",
+      "price": "Цена 19500 € с ДДС / 38138.69 лв. с ДДС",
+      "link": "https://kia.bg/bg/used-cars/104/kia-sportage-1-6-t-gdi-lx-4-wd",
+      "source": "kia",
+      "scraped_date": "2026-03-11T11:52:48.952396"
     }
   ]
 }
