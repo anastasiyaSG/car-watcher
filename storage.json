@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-03-11T07:59:31.193554",
-  "total_cars": 46,
+  "last_scraped": "2026-03-11T09:33:40.516654",
+  "total_cars": 47,
   "nissan_count": 25,
-  "kia_count": 21,
+  "kia_count": 22,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -371,6 +371,14 @@
       "link": "https://kia.bg/bg/used-cars/422/kia-stonic-1-0-turbo-6mt-ex",
       "source": "kia",
       "scraped_date": "2026-03-11T07:59:22.111877"
+    },
+    {
+      "id": "/bg/used-cars/496/kia-niro-1-6-hev",
+      "title": "Kia Niro 1,6 HEV",
+      "price": "Цена 13990 € не се начислява ДДС / 27362.06 лв. не се начислява ДДС",
+      "link": "https://kia.bg/bg/used-cars/496/kia-niro-1-6-hev",
+      "source": "kia",
+      "scraped_date": "2026-03-11T09:33:31.727015"
     }
   ]
 }
