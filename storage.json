@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-03-16T07:52:24.894344",
-  "total_cars": 49,
+  "last_scraped": "2026-03-16T16:53:48.890372",
+  "total_cars": 50,
   "nissan_count": 26,
-  "kia_count": 23,
+  "kia_count": 24,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -395,6 +395,14 @@
       "link": "https://www.omnicar.nissan.bg/catalog/464-nissan-qashqai",
       "source": "nissan",
       "scraped_date": "2026-03-16T07:52:16.813607"
+    },
+    {
+      "id": "/bg/used-cars/562/porsche-taycan-turbo-4x4-93-4-kwh",
+      "title": "Porsche Taycan Turbo 4x4 93.4 Kwh",
+      "price": "Цена 51990 € с ДДС / 101683.60 лв. с ДДС",
+      "link": "https://kia.bg/bg/used-cars/562/porsche-taycan-turbo-4x4-93-4-kwh",
+      "source": "kia",
+      "scraped_date": "2026-03-16T16:53:46.331795"
     }
   ]
 }
