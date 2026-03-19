@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-03-16T16:53:48.890372",
-  "total_cars": 50,
+  "last_scraped": "2026-03-19T15:10:41.948355",
+  "total_cars": 51,
   "nissan_count": 26,
-  "kia_count": 24,
+  "kia_count": 25,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -403,6 +403,14 @@
       "link": "https://kia.bg/bg/used-cars/562/porsche-taycan-turbo-4x4-93-4-kwh",
       "source": "kia",
       "scraped_date": "2026-03-16T16:53:46.331795"
+    },
+    {
+      "id": "/bg/used-cars/525/kia-niro-ev-150kw-comfort-heat-pump-bat-64-8-kw",
+      "title": "Kia Niro EV 150kw Comfort Heat pump bat. - 64,8 kw.",
+      "price": "Цена 37890 € с ДДС / 74106.40 лв. с ДДС",
+      "link": "https://kia.bg/bg/used-cars/525/kia-niro-ev-150kw-comfort-heat-pump-bat-64-8-kw",
+      "source": "kia",
+      "scraped_date": "2026-03-19T15:10:38.822852"
     }
   ]
 }
