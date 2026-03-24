@@ -1,7 +1,7 @@
 {
-  "last_scraped": "2026-03-24T09:45:33.418333",
-  "total_cars": 55,
-  "nissan_count": 26,
+  "last_scraped": "2026-03-24T14:14:11.698422",
+  "total_cars": 56,
+  "nissan_count": 27,
   "kia_count": 29,
   "cars": [
     {
@@ -443,6 +443,14 @@
       "link": "https://kia.bg/bg/used-cars/513/kia-stonic-1-0-turbo-comfort-aut",
       "source": "kia",
       "scraped_date": "2026-03-24T09:45:27.801990"
+    },
+    {
+      "id": "https://www.omnicar.nissan.bg/catalog/465-nissan-qashqai",
+      "title": "Nissan Qashqai 1.3 DIG-T N-Connecta A/T",
+      "price": "€ 16 999,00 / 33 247,15 лв.",
+      "link": "https://www.omnicar.nissan.bg/catalog/465-nissan-qashqai",
+      "source": "nissan",
+      "scraped_date": "2026-03-24T14:14:03.723162"
     }
   ]
 }
