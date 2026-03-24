@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-03-19T15:10:41.948355",
-  "total_cars": 51,
+  "last_scraped": "2026-03-24T09:45:33.418333",
+  "total_cars": 55,
   "nissan_count": 26,
-  "kia_count": 25,
+  "kia_count": 29,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -411,6 +411,38 @@
       "link": "https://kia.bg/bg/used-cars/525/kia-niro-ev-150kw-comfort-heat-pump-bat-64-8-kw",
       "source": "kia",
       "scraped_date": "2026-03-19T15:10:38.822852"
+    },
+    {
+      "id": "/bg/used-cars/204/kia-rio-1-2",
+      "title": "Kia Rio 1.2",
+      "price": "Цена 12490 € не се начислява ДДС / 24428.32 лв. не се начислява ДДС",
+      "link": "https://kia.bg/bg/used-cars/204/kia-rio-1-2",
+      "source": "kia",
+      "scraped_date": "2026-03-24T09:45:24.976468"
+    },
+    {
+      "id": "/bg/used-cars/564/renault-captur-1-3-intens-6mt",
+      "title": "Renault Captur 1.3 Intens  6мт",
+      "price": "Цена 13990 € с ДДС / 27362.06 лв. с ДДС",
+      "link": "https://kia.bg/bg/used-cars/564/renault-captur-1-3-intens-6mt",
+      "source": "kia",
+      "scraped_date": "2026-03-24T09:45:25.012488"
+    },
+    {
+      "id": "/bg/used-cars/563/kia-pro-ceed-sx-1-5-t-gdi-aut",
+      "title": "Kia Pro Ceed  SX 1.5 T-gdi AUT",
+      "price": "Цена 16990 € с ДДС / 33229.55 лв. с ДДС",
+      "link": "https://kia.bg/bg/used-cars/563/kia-pro-ceed-sx-1-5-t-gdi-aut",
+      "source": "kia",
+      "scraped_date": "2026-03-24T09:45:25.030071"
+    },
+    {
+      "id": "/bg/used-cars/513/kia-stonic-1-0-turbo-comfort-aut",
+      "title": "Kia Stonic 1.0 Turbo  Comfort  AUT.",
+      "price": "Цена 17990 € с ДДС / 35185.38 лв. с ДДС",
+      "link": "https://kia.bg/bg/used-cars/513/kia-stonic-1-0-turbo-comfort-aut",
+      "source": "kia",
+      "scraped_date": "2026-03-24T09:45:27.801990"
     }
   ]
 }
