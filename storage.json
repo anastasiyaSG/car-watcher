@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-03-31T11:41:16.065642",
-  "total_cars": 58,
+  "last_scraped": "2026-03-31T14:23:15.887450",
+  "total_cars": 59,
   "nissan_count": 27,
-  "kia_count": 31,
+  "kia_count": 32,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -467,6 +467,14 @@
       "link": "https://kia.bg/bg/used-cars/249/kia-sportage-1-6-crdi-4x4-gt-line",
       "source": "kia",
       "scraped_date": "2026-03-31T11:41:05.008424"
+    },
+    {
+      "id": "/bg/used-cars/420/kia-ceed-sw-1-5-t-gdi-comfort",
+      "title": "Kia Ceed SW 1.5 T-gdi COMFORT",
+      "price": "Цена 14990 € с ДДС / 29317.89 лв. с ДДС",
+      "link": "https://kia.bg/bg/used-cars/420/kia-ceed-sw-1-5-t-gdi-comfort",
+      "source": "kia",
+      "scraped_date": "2026-03-31T14:23:08.094545"
     }
   ]
 }
