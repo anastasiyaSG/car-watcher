@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-03-31T10:44:38.388558",
-  "total_cars": 57,
+  "last_scraped": "2026-03-31T11:41:16.065642",
+  "total_cars": 58,
   "nissan_count": 27,
-  "kia_count": 30,
+  "kia_count": 31,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -459,6 +459,14 @@
       "link": "https://kia.bg/bg/used-cars/554/kia-sportage-1-6-hev-t-gdi-executive-4x4",
       "source": "kia",
       "scraped_date": "2026-03-31T10:44:33.194340"
+    },
+    {
+      "id": "/bg/used-cars/249/kia-sportage-1-6-crdi-4x4-gt-line",
+      "title": "Kia Sportage 1.6 CRDI 4x4 GT line",
+      "price": "Цена 19990 € с ДДС / 39097.04 лв. с ДДС",
+      "link": "https://kia.bg/bg/used-cars/249/kia-sportage-1-6-crdi-4x4-gt-line",
+      "source": "kia",
+      "scraped_date": "2026-03-31T11:41:05.008424"
     }
   ]
 }
