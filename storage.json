@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-03-24T14:14:11.698422",
-  "total_cars": 56,
+  "last_scraped": "2026-03-31T10:44:38.388558",
+  "total_cars": 57,
   "nissan_count": 27,
-  "kia_count": 29,
+  "kia_count": 30,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -451,6 +451,14 @@
       "link": "https://www.omnicar.nissan.bg/catalog/465-nissan-qashqai",
       "source": "nissan",
       "scraped_date": "2026-03-24T14:14:03.723162"
+    },
+    {
+      "id": "/bg/used-cars/554/kia-sportage-1-6-hev-t-gdi-executive-4x4",
+      "title": "Kia Sportage 1.6  HEV T-gdi Executive 4x4",
+      "price": "Цена 29990 € не се начислява ДДС / 58655.34 лв. не се начислява ДДС",
+      "link": "https://kia.bg/bg/used-cars/554/kia-sportage-1-6-hev-t-gdi-executive-4x4",
+      "source": "kia",
+      "scraped_date": "2026-03-31T10:44:33.194340"
     }
   ]
 }
