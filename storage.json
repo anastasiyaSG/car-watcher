@@ -1,7 +1,7 @@
 {
-  "last_scraped": "2026-03-31T14:23:15.887450",
-  "total_cars": 59,
-  "nissan_count": 27,
+  "last_scraped": "2026-04-01T12:55:06.164744",
+  "total_cars": 60,
+  "nissan_count": 28,
   "kia_count": 32,
   "cars": [
     {
@@ -475,6 +475,14 @@
       "link": "https://kia.bg/bg/used-cars/420/kia-ceed-sw-1-5-t-gdi-comfort",
       "source": "kia",
       "scraped_date": "2026-03-31T14:23:08.094545"
+    },
+    {
+      "id": "https://www.omnicar.nissan.bg/catalog/466-nissan-qashqai",
+      "title": "Nissan Qashqai 1.3 DDT Tekna 4x2",
+      "price": "€ 23 000,00 / 44 984,09 лв.",
+      "link": "https://www.omnicar.nissan.bg/catalog/466-nissan-qashqai",
+      "source": "nissan",
+      "scraped_date": "2026-04-01T12:54:57.299932"
     }
   ]
 }
