@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-04-03T07:41:39.646488",
-  "total_cars": 61,
+  "last_scraped": "2026-04-03T08:41:54.022879",
+  "total_cars": 62,
   "nissan_count": 28,
-  "kia_count": 33,
+  "kia_count": 34,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -491,6 +491,14 @@
       "link": "https://kia.bg/bg/used-cars/199/kia-sportage-1-6-tgdi-4x4-ex",
       "source": "kia",
       "scraped_date": "2026-04-03T07:41:30.623507"
+    },
+    {
+      "id": "/bg/used-cars/565/kia-sorento-2-2-crdi-ex-4x4",
+      "title": "Kia Sorento 2.2 CRDI EX 4X4",
+      "price": "Цена 19400 € не се начислява ДДС / 37943.10 лв. не се начислява ДДС",
+      "link": "https://kia.bg/bg/used-cars/565/kia-sorento-2-2-crdi-ex-4x4",
+      "source": "kia",
+      "scraped_date": "2026-04-03T08:41:46.160082"
     }
   ]
 }
