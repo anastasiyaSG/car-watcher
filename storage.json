@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-04-03T09:44:29.973721",
-  "total_cars": 63,
+  "last_scraped": "2026-04-06T08:50:47.992382",
+  "total_cars": 64,
   "nissan_count": 28,
-  "kia_count": 35,
+  "kia_count": 36,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -507,6 +507,14 @@
       "link": "https://kia.bg/bg/used-cars/104/kia-sportage-1-6-t-gdi-4x4-lx",
       "source": "kia",
       "scraped_date": "2026-04-03T09:44:21.858448"
+    },
+    {
+      "id": "/bg/used-cars/422/kia-stonic-1-0-turbo-aut-comfort",
+      "title": "Kia Stonic 1.0 Turbo  AUT  COMFORT",
+      "price": "Цена 16499 € не се начислява ДДС / 32269.24 лв. не се начислява ДДС",
+      "link": "https://kia.bg/bg/used-cars/422/kia-stonic-1-0-turbo-aut-comfort",
+      "source": "kia",
+      "scraped_date": "2026-04-06T08:50:37.963847"
     }
   ]
 }
