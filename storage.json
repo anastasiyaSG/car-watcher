@@ -1,7 +1,7 @@
 {
-  "last_scraped": "2026-04-14T10:15:19.507382",
-  "total_cars": 67,
-  "nissan_count": 30,
+  "last_scraped": "2026-04-15T14:47:07.288055",
+  "total_cars": 68,
+  "nissan_count": 31,
   "kia_count": 37,
   "cars": [
     {
@@ -539,6 +539,14 @@
       "link": "https://kia.bg/bg/used-cars/566/vw-arteon-2-0-tdi-r-line-dsg-4motion",
       "source": "kia",
       "scraped_date": "2026-04-14T10:15:14.153478"
+    },
+    {
+      "id": "https://www.omnicar.nissan.bg/catalog/469-nissan-qashqai",
+      "title": "Nissan Qashqai 1.3 DDT Acenta Plus A/T",
+      "price": "€ 21 000,00 / 41 072,43 лв.",
+      "link": "https://www.omnicar.nissan.bg/catalog/469-nissan-qashqai",
+      "source": "nissan",
+      "scraped_date": "2026-04-15T14:46:59.922076"
     }
   ]
 }
