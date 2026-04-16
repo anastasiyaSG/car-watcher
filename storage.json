@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-04-15T14:47:07.288055",
-  "total_cars": 68,
+  "last_scraped": "2026-04-16T08:12:34.777271",
+  "total_cars": 69,
   "nissan_count": 31,
-  "kia_count": 37,
+  "kia_count": 38,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -547,6 +547,14 @@
       "link": "https://www.omnicar.nissan.bg/catalog/469-nissan-qashqai",
       "source": "nissan",
       "scraped_date": "2026-04-15T14:46:59.922076"
+    },
+    {
+      "id": "/bg/used-cars/567/kia-sorento-2-2-crdi-limited-4x4",
+      "title": "Kia Sorento 2.2 CRDI Limited  4x4",
+      "price": "Цена 38990 € с ДДС / 76257.81 лв. с ДДС",
+      "link": "https://kia.bg/bg/used-cars/567/kia-sorento-2-2-crdi-limited-4x4",
+      "source": "kia",
+      "scraped_date": "2026-04-16T08:12:31.333414"
     }
   ]
 }
