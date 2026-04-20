@@ -1,7 +1,7 @@
 {
-  "last_scraped": "2026-04-16T08:12:34.777271",
-  "total_cars": 69,
-  "nissan_count": 31,
+  "last_scraped": "2026-04-20T11:11:34.165010",
+  "total_cars": 70,
+  "nissan_count": 32,
   "kia_count": 38,
   "cars": [
     {
@@ -555,6 +555,14 @@
       "link": "https://kia.bg/bg/used-cars/567/kia-sorento-2-2-crdi-limited-4x4",
       "source": "kia",
       "scraped_date": "2026-04-16T08:12:31.333414"
+    },
+    {
+      "id": "https://www.omnicar.nissan.bg/catalog/470-nissan-qashqai",
+      "title": "Nissan Qashqai 1.3 DIG-T Acenta A/T",
+      "price": "€ 16 590,00 / 32 447,22 лв.",
+      "link": "https://www.omnicar.nissan.bg/catalog/470-nissan-qashqai",
+      "source": "nissan",
+      "scraped_date": "2026-04-20T11:11:25.911263"
     }
   ]
 }
