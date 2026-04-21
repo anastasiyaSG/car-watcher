@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-04-20T15:51:56.415870",
-  "total_cars": 71,
+  "last_scraped": "2026-04-21T06:19:10.375874",
+  "total_cars": 72,
   "nissan_count": 32,
-  "kia_count": 39,
+  "kia_count": 40,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -571,6 +571,14 @@
       "link": "https://kia.bg/bg/used-cars/330/kia-ceed-1-6-crdi-comfort",
       "source": "kia",
       "scraped_date": "2026-04-20T15:51:47.735638"
+    },
+    {
+      "id": "/bg/used-cars/567/kia-sorento-2-2-crdi-limited-4x4-6-1-mesta",
+      "title": "Kia Sorento 2.2 CRDI Limited  4x4  6+1 места",
+      "price": "Цена 38990 € с ДДС / 76257.81 лв. с ДДС",
+      "link": "https://kia.bg/bg/used-cars/567/kia-sorento-2-2-crdi-limited-4x4-6-1-mesta",
+      "source": "kia",
+      "scraped_date": "2026-04-21T06:19:04.646683"
     }
   ]
 }
