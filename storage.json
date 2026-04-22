@@ -1,7 +1,7 @@
 {
-  "last_scraped": "2026-04-21T06:19:10.375874",
-  "total_cars": 72,
-  "nissan_count": 32,
+  "last_scraped": "2026-04-22T09:01:48.343443",
+  "total_cars": 73,
+  "nissan_count": 33,
   "kia_count": 40,
   "cars": [
     {
@@ -579,6 +579,14 @@
       "link": "https://kia.bg/bg/used-cars/567/kia-sorento-2-2-crdi-limited-4x4-6-1-mesta",
       "source": "kia",
       "scraped_date": "2026-04-21T06:19:04.646683"
+    },
+    {
+      "id": "https://www.omnicar.nissan.bg/catalog/471-nissan-xtrail",
+      "title": "Nissan X-Trail E-4orce N-Trek 4x4",
+      "price": "€ 36 590,00 / 71 563,82 лв.",
+      "link": "https://www.omnicar.nissan.bg/catalog/471-nissan-xtrail",
+      "source": "nissan",
+      "scraped_date": "2026-04-22T09:01:40.239490"
     }
   ]
 }
