@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-04-22T14:54:58.912607",
-  "total_cars": 74,
+  "last_scraped": "2026-04-27T11:21:25.855988",
+  "total_cars": 76,
   "nissan_count": 33,
-  "kia_count": 41,
+  "kia_count": 43,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -595,6 +595,22 @@
       "link": "https://kia.bg/bg/used-cars/251/kia-sportage-1-6-t-gdi-4x4-gt-line",
       "source": "kia",
       "scraped_date": "2026-04-22T14:54:53.624036"
+    },
+    {
+      "id": "/bg/used-cars/568/peugeot-208-1-2-aut",
+      "title": "Peugeot 208 1.2 aut",
+      "price": "Цена 16990 € не се начислява ДДС / 33229.55 лв. не се начислява ДДС",
+      "link": "https://kia.bg/bg/used-cars/568/peugeot-208-1-2-aut",
+      "source": "kia",
+      "scraped_date": "2026-04-27T11:21:17.588432"
+    },
+    {
+      "id": "/bg/used-cars/569/peugeot-3008-1-5-hdi",
+      "title": "Peugeot 3008 1.5 HDI",
+      "price": "Цена 19990 € не се начислява ДДС / 39097.04 лв. не се начислява ДДС",
+      "link": "https://kia.bg/bg/used-cars/569/peugeot-3008-1-5-hdi",
+      "source": "kia",
+      "scraped_date": "2026-04-27T11:21:17.642485"
     }
   ]
 }
