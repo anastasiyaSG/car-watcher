@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-04-27T11:21:25.855988",
-  "total_cars": 76,
+  "last_scraped": "2026-04-29T13:02:25.619982",
+  "total_cars": 77,
   "nissan_count": 33,
-  "kia_count": 43,
+  "kia_count": 44,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -611,6 +611,14 @@
       "link": "https://kia.bg/bg/used-cars/569/peugeot-3008-1-5-hdi",
       "source": "kia",
       "scraped_date": "2026-04-27T11:21:17.642485"
+    },
+    {
+      "id": "/bg/used-cars/347/kia-rio-1-2",
+      "title": "Kia Rio 1.2",
+      "price": "Цена 9990 € с ДДС / 19538.74 лв. с ДДС",
+      "link": "https://kia.bg/bg/used-cars/347/kia-rio-1-2",
+      "source": "kia",
+      "scraped_date": "2026-04-29T13:02:17.934561"
     }
   ]
 }
