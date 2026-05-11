@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-04-29T15:31:55.367627",
-  "total_cars": 78,
+  "last_scraped": "2026-05-11T10:04:28.817132",
+  "total_cars": 80,
   "nissan_count": 33,
-  "kia_count": 45,
+  "kia_count": 47,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -627,6 +627,22 @@
       "link": "https://kia.bg/bg/used-cars/508/kia-sportage-1-6-t-gdi-gt-line-4x4",
       "source": "kia",
       "scraped_date": "2026-04-29T15:31:50.301732"
+    },
+    {
+      "id": "/bg/used-cars/330/kia-ceed-1-5-t-gdi-comfort-aut",
+      "title": "Kia Ceed 1.5 T-gdi Comfort AUT",
+      "price": "Цена 13990 € с ДДС / 27362.06 лв. с ДДС",
+      "link": "https://kia.bg/bg/used-cars/330/kia-ceed-1-5-t-gdi-comfort-aut",
+      "source": "kia",
+      "scraped_date": "2026-05-11T10:04:22.545557"
+    },
+    {
+      "id": "/bg/used-cars/340/skoda-octavia-1-5-tsi-sw",
+      "title": "Skoda Octavia 1.5 tsi SW",
+      "price": "Цена 14990 € с ДДС / 29317.89 лв. с ДДС",
+      "link": "https://kia.bg/bg/used-cars/340/skoda-octavia-1-5-tsi-sw",
+      "source": "kia",
+      "scraped_date": "2026-05-11T10:04:22.576424"
     }
   ]
 }
