@@ -1,7 +1,7 @@
 {
-  "last_scraped": "2026-05-11T10:04:28.817132",
-  "total_cars": 80,
-  "nissan_count": 33,
+  "last_scraped": "2026-05-11T13:21:34.293938",
+  "total_cars": 81,
+  "nissan_count": 34,
   "kia_count": 47,
   "cars": [
     {
@@ -643,6 +643,14 @@
       "link": "https://kia.bg/bg/used-cars/340/skoda-octavia-1-5-tsi-sw",
       "source": "kia",
       "scraped_date": "2026-05-11T10:04:22.576424"
+    },
+    {
+      "id": "https://www.omnicar.nissan.bg/catalog/472-nissan-qashqai-15-epower-tekna-",
+      "title": "NISSAN QASHQAI 1.5 E-Power Tekna + E-Power Tekna +",
+      "price": "€ 29 990,00 / 58 655,34 лв.",
+      "link": "https://www.omnicar.nissan.bg/catalog/472-nissan-qashqai-15-epower-tekna-",
+      "source": "nissan",
+      "scraped_date": "2026-05-11T13:21:29.215152"
     }
   ]
 }
