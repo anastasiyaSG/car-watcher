@@ -1,7 +1,7 @@
 {
-  "last_scraped": "2026-05-11T13:21:34.293938",
-  "total_cars": 81,
-  "nissan_count": 34,
+  "last_scraped": "2026-05-12T13:00:33.785230",
+  "total_cars": 84,
+  "nissan_count": 37,
   "kia_count": 47,
   "cars": [
     {
@@ -651,6 +651,30 @@
       "link": "https://www.omnicar.nissan.bg/catalog/472-nissan-qashqai-15-epower-tekna-",
       "source": "nissan",
       "scraped_date": "2026-05-11T13:21:29.215152"
+    },
+    {
+      "id": "https://www.omnicar.nissan.bg/catalog/475-nissan-qashqai",
+      "title": "Nissan Qashqai 1.3 DDT Tekna A/T 4x4",
+      "price": "€ 26 450,00 / 51 731,70 лв.",
+      "link": "https://www.omnicar.nissan.bg/catalog/475-nissan-qashqai",
+      "source": "nissan",
+      "scraped_date": "2026-05-12T13:00:26.325132"
+    },
+    {
+      "id": "https://www.omnicar.nissan.bg/catalog/474-nissan-juke",
+      "title": "Nissan Juke 1.0 DIG-T N-Connecta",
+      "price": "€ 16 090,00 / 31 469,30 лв.",
+      "link": "https://www.omnicar.nissan.bg/catalog/474-nissan-juke",
+      "source": "nissan",
+      "scraped_date": "2026-05-12T13:00:26.345678"
+    },
+    {
+      "id": "https://www.omnicar.nissan.bg/catalog/473-nissan-qashqai",
+      "title": "Nissan Qashqai 1.3 DDT Tekna 4x4 A/T",
+      "price": "€ 22 290,00 / 43 595,45 лв.",
+      "link": "https://www.omnicar.nissan.bg/catalog/473-nissan-qashqai",
+      "source": "nissan",
+      "scraped_date": "2026-05-12T13:00:26.366681"
     }
   ]
 }
