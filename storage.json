@@ -1,7 +1,7 @@
 {
-  "last_scraped": "2026-05-12T13:00:33.785230",
-  "total_cars": 84,
-  "nissan_count": 37,
+  "last_scraped": "2026-05-14T13:11:44.230304",
+  "total_cars": 85,
+  "nissan_count": 38,
   "kia_count": 47,
   "cars": [
     {
@@ -675,6 +675,14 @@
       "link": "https://www.omnicar.nissan.bg/catalog/473-nissan-qashqai",
       "source": "nissan",
       "scraped_date": "2026-05-12T13:00:26.366681"
+    },
+    {
+      "id": "https://www.omnicar.nissan.bg/catalog/476-nissan-qashqai",
+      "title": "Nissan Qashqai 1.3 DDT Tekna A/T 4x2",
+      "price": "€ 22 590,00 / 44 182,20 лв.",
+      "link": "https://www.omnicar.nissan.bg/catalog/476-nissan-qashqai",
+      "source": "nissan",
+      "scraped_date": "2026-05-14T13:11:36.436648"
     }
   ]
 }
