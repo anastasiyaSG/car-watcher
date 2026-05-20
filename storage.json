@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-05-20T10:18:20.006549",
-  "total_cars": 87,
+  "last_scraped": "2026-05-20T12:41:09.152524",
+  "total_cars": 88,
   "nissan_count": 39,
-  "kia_count": 48,
+  "kia_count": 49,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -699,6 +699,14 @@
       "link": "https://www.omnicar.nissan.bg/catalog/477-nissan",
       "source": "nissan",
       "scraped_date": "2026-05-20T10:18:12.529944"
+    },
+    {
+      "id": "/bg/used-cars/520/kia-sportage-1-6-t-gdi-4wd-comfort",
+      "title": "Kia Sportage 1.6 T-gdi 4WD Comfort",
+      "price": "Цена 25990 € не се начислява ДДС / 50832.02 лв. не се начислява ДДС",
+      "link": "https://kia.bg/bg/used-cars/520/kia-sportage-1-6-t-gdi-4wd-comfort",
+      "source": "kia",
+      "scraped_date": "2026-05-20T12:41:02.570994"
     }
   ]
 }
