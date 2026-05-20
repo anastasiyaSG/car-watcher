@@ -1,7 +1,7 @@
 {
-  "last_scraped": "2026-05-15T10:12:13.108034",
-  "total_cars": 86,
-  "nissan_count": 38,
+  "last_scraped": "2026-05-20T10:18:20.006549",
+  "total_cars": 87,
+  "nissan_count": 39,
   "kia_count": 48,
   "cars": [
     {
@@ -691,6 +691,14 @@
       "link": "https://kia.bg/bg/used-cars/358/kia-rio-1-0-turbo-aut",
       "source": "kia",
       "scraped_date": "2026-05-15T10:12:04.584623"
+    },
+    {
+      "id": "https://www.omnicar.nissan.bg/catalog/477-nissan",
+      "title": "Nissan Qashqai 1.3 DIG-T Acenta M/T",
+      "price": "€ 16 990,00 / 33 229,55 лв.",
+      "link": "https://www.omnicar.nissan.bg/catalog/477-nissan",
+      "source": "nissan",
+      "scraped_date": "2026-05-20T10:18:12.529944"
     }
   ]
 }
