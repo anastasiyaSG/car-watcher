@@ -1,7 +1,7 @@
 {
-  "last_scraped": "2026-05-20T12:41:09.152524",
-  "total_cars": 88,
-  "nissan_count": 39,
+  "last_scraped": "2026-05-21T10:30:47.928123",
+  "total_cars": 90,
+  "nissan_count": 41,
   "kia_count": 49,
   "cars": [
     {
@@ -707,6 +707,22 @@
       "link": "https://kia.bg/bg/used-cars/520/kia-sportage-1-6-t-gdi-4wd-comfort",
       "source": "kia",
       "scraped_date": "2026-05-20T12:41:02.570994"
+    },
+    {
+      "id": "https://www.omnicar.nissan.bg/catalog/479-nissan-qashqai",
+      "title": "Nissan Qashqai 1.3 DDT N-Connecta A/T 4x2",
+      "price": "€ 24 690,00 / 48 289,44 лв.",
+      "link": "https://www.omnicar.nissan.bg/catalog/479-nissan-qashqai",
+      "source": "nissan",
+      "scraped_date": "2026-05-21T10:30:39.486188"
+    },
+    {
+      "id": "https://www.omnicar.nissan.bg/catalog/478-nissan-qashqai",
+      "title": "Nissan Qashqai 1.3 DIG-T N-Connecta A/T",
+      "price": "€ 15 090,00 / 29 513,47 лв.",
+      "link": "https://www.omnicar.nissan.bg/catalog/478-nissan-qashqai",
+      "source": "nissan",
+      "scraped_date": "2026-05-21T10:30:39.506863"
     }
   ]
 }
