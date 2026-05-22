@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-05-21T10:30:47.928123",
-  "total_cars": 90,
+  "last_scraped": "2026-05-22T08:17:00.537248",
+  "total_cars": 93,
   "nissan_count": 41,
-  "kia_count": 49,
+  "kia_count": 52,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -723,6 +723,30 @@
       "link": "https://www.omnicar.nissan.bg/catalog/478-nissan-qashqai",
       "source": "nissan",
       "scraped_date": "2026-05-21T10:30:39.506863"
+    },
+    {
+      "id": "/bg/used-cars/570/opel-astra-1-2-turbo",
+      "title": "Opel Astra 1.2 Turbo",
+      "price": "Цена 11490 € не се начислява ДДС / 22472.49 лв. не се начислява ДДС",
+      "link": "https://kia.bg/bg/used-cars/570/opel-astra-1-2-turbo",
+      "source": "kia",
+      "scraped_date": "2026-05-22T08:16:50.628409"
+    },
+    {
+      "id": "/bg/used-cars/284/kia-ceed-1-4-turbo-comfort",
+      "title": "Kia Ceed 1.4 turbo Comfort +",
+      "price": "Цена 14990 € не се начислява ДДС / 29317.89 лв. не се начислява ДДС",
+      "link": "https://kia.bg/bg/used-cars/284/kia-ceed-1-4-turbo-comfort",
+      "source": "kia",
+      "scraped_date": "2026-05-22T08:16:50.711102"
+    },
+    {
+      "id": "/bg/used-cars/426/kia-sportage-1-6-t-gdi-executive-2wd",
+      "title": "Kia Sportage 1.6 T-gdi Executive 2WD",
+      "price": "Цена 24990 € не се начислява ДДС / 48876.19 лв. не се начислява ДДС",
+      "link": "https://kia.bg/bg/used-cars/426/kia-sportage-1-6-t-gdi-executive-2wd",
+      "source": "kia",
+      "scraped_date": "2026-05-22T08:16:53.742125"
     }
   ]
 }
