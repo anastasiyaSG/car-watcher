@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-05-22T08:17:00.537248",
-  "total_cars": 93,
+  "last_scraped": "2026-05-22T11:22:43.667182",
+  "total_cars": 95,
   "nissan_count": 41,
-  "kia_count": 52,
+  "kia_count": 54,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -747,6 +747,22 @@
       "link": "https://kia.bg/bg/used-cars/426/kia-sportage-1-6-t-gdi-executive-2wd",
       "source": "kia",
       "scraped_date": "2026-05-22T08:16:53.742125"
+    },
+    {
+      "id": "/bg/used-cars/571/dacia-sandero-1-0",
+      "title": "Dacia Sandero 1.0",
+      "price": "Цена 8990 € с ДДС / 17582.91 лв. с ДДС",
+      "link": "https://kia.bg/bg/used-cars/571/dacia-sandero-1-0",
+      "source": "kia",
+      "scraped_date": "2026-05-22T11:22:35.219784"
+    },
+    {
+      "id": "/bg/used-cars/288/kia-ceed-1-6-crdi",
+      "title": "Kia Ceed 1.6 CRDI",
+      "price": "Цена 11990 € с ДДС / 23450.40 лв. с ДДС",
+      "link": "https://kia.bg/bg/used-cars/288/kia-ceed-1-6-crdi",
+      "source": "kia",
+      "scraped_date": "2026-05-22T11:22:35.280254"
     }
   ]
 }
