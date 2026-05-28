@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-05-22T11:22:43.667182",
-  "total_cars": 95,
+  "last_scraped": "2026-05-28T13:40:12.086600",
+  "total_cars": 98,
   "nissan_count": 41,
-  "kia_count": 54,
+  "kia_count": 57,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -763,6 +763,30 @@
       "link": "https://kia.bg/bg/used-cars/288/kia-ceed-1-6-crdi",
       "source": "kia",
       "scraped_date": "2026-05-22T11:22:35.280254"
+    },
+    {
+      "id": "/bg/used-cars/109/kia-sportage-1-6-t-gdi-4x4-gt-line",
+      "title": "KIA SPORTAGE 1.6 T-gdi 4X4 GT line",
+      "price": "Цена 19990 € с ДДС / 39097.04 лв. с ДДС",
+      "link": "https://kia.bg/bg/used-cars/109/kia-sportage-1-6-t-gdi-4x4-gt-line",
+      "source": "kia",
+      "scraped_date": "2026-05-28T13:40:02.420241"
+    },
+    {
+      "id": "/bg/used-cars/572/alfa-romeo-stelvio-2-0-ti",
+      "title": "Alfa Romeo Stelvio 2.0 Ti",
+      "price": "Цена 34990 € с ДДС / 68434.49 лв. с ДДС",
+      "link": "https://kia.bg/bg/used-cars/572/alfa-romeo-stelvio-2-0-ti",
+      "source": "kia",
+      "scraped_date": "2026-05-28T13:40:07.920253"
+    },
+    {
+      "id": "/bg/used-cars/502/kia-sorento-2-2-crdi-limited-4x4",
+      "title": "Kia Sorento 2.2 crdi  Limited 4x4",
+      "price": "Цена 38990 € с ДДС / 76257.81 лв. с ДДС",
+      "link": "https://kia.bg/bg/used-cars/502/kia-sorento-2-2-crdi-limited-4x4",
+      "source": "kia",
+      "scraped_date": "2026-05-28T13:40:07.958397"
     }
   ]
 }
