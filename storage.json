@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-05-28T13:40:12.086600",
-  "total_cars": 98,
+  "last_scraped": "2026-05-29T13:52:18.840539",
+  "total_cars": 100,
   "nissan_count": 41,
-  "kia_count": 57,
+  "kia_count": 59,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -787,6 +787,22 @@
       "link": "https://kia.bg/bg/used-cars/502/kia-sorento-2-2-crdi-limited-4x4",
       "source": "kia",
       "scraped_date": "2026-05-28T13:40:07.958397"
+    },
+    {
+      "id": "/bg/used-cars/291/kia-ceed-sw1-5-turbo-executive",
+      "title": "Kia Ceed SW1.5 Turbo EXECUTIVE",
+      "price": "Цена 17990 € с ДДС / 35185.38 лв. с ДДС",
+      "link": "https://kia.bg/bg/used-cars/291/kia-ceed-sw1-5-turbo-executive",
+      "source": "kia",
+      "scraped_date": "2026-05-29T13:52:13.240115"
+    },
+    {
+      "id": "/bg/used-cars/442/kia-sorento-2-2-crdi-4x4",
+      "title": "Kia Sorento 2.2 crdi  4x4",
+      "price": "Цена 32990 € с ДДС / 64522.83 лв. с ДДС",
+      "link": "https://kia.bg/bg/used-cars/442/kia-sorento-2-2-crdi-4x4",
+      "source": "kia",
+      "scraped_date": "2026-05-29T13:52:15.899508"
     }
   ]
 }
