@@ -1,7 +1,7 @@
 {
-  "last_scraped": "2026-05-29T13:52:18.840539",
-  "total_cars": 100,
-  "nissan_count": 41,
+  "last_scraped": "2026-06-01T15:24:55.947430",
+  "total_cars": 102,
+  "nissan_count": 43,
   "kia_count": 59,
   "cars": [
     {
@@ -803,6 +803,22 @@
       "link": "https://kia.bg/bg/used-cars/442/kia-sorento-2-2-crdi-4x4",
       "source": "kia",
       "scraped_date": "2026-05-29T13:52:15.899508"
+    },
+    {
+      "id": "https://www.omnicar.nissan.bg/catalog/481-nissan-qashqai",
+      "title": "Nissan Qashqai E-Power Tekna Plus",
+      "price": "€ 34 900,00",
+      "link": "https://www.omnicar.nissan.bg/catalog/481-nissan-qashqai",
+      "source": "nissan",
+      "scraped_date": "2026-06-01T15:24:47.242863"
+    },
+    {
+      "id": "https://www.omnicar.nissan.bg/catalog/480-nissan-juke",
+      "title": "Nissan Juke 1.0 DIG-T N-Design A/T",
+      "price": "€ 17 100,00",
+      "link": "https://www.omnicar.nissan.bg/catalog/480-nissan-juke",
+      "source": "nissan",
+      "scraped_date": "2026-06-01T15:24:47.257145"
     }
   ]
 }
