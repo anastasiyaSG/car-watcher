@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-06-03T10:16:16.317696",
-  "total_cars": 103,
+  "last_scraped": "2026-06-04T12:25:06.948681",
+  "total_cars": 104,
   "nissan_count": 43,
-  "kia_count": 60,
+  "kia_count": 61,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -827,6 +827,14 @@
       "link": "https://kia.bg/bg/used-cars/573/kia-niro-1-6-hev-ex",
       "source": "kia",
       "scraped_date": "2026-06-03T10:16:06.127993"
+    },
+    {
+      "id": "/bg/used-cars/574/ford-puma-1-0-eco-boost-titanium",
+      "title": "Ford Puma 1.0 EcoBoost TITANIUM",
+      "price": "Цена 18990 € не се начислява ДДС / 37141.21 лв. не се начислява ДДС",
+      "link": "https://kia.bg/bg/used-cars/574/ford-puma-1-0-eco-boost-titanium",
+      "source": "kia",
+      "scraped_date": "2026-06-04T12:24:56.067316"
     }
   ]
 }
