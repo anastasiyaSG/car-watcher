@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-06-04T12:25:06.948681",
-  "total_cars": 104,
+  "last_scraped": "2026-06-05T10:40:14.794139",
+  "total_cars": 107,
   "nissan_count": 43,
-  "kia_count": 61,
+  "kia_count": 64,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -835,6 +835,30 @@
       "link": "https://kia.bg/bg/used-cars/574/ford-puma-1-0-eco-boost-titanium",
       "source": "kia",
       "scraped_date": "2026-06-04T12:24:56.067316"
+    },
+    {
+      "id": "/bg/used-cars/514/kia-picanto-1-2-aut-comfort",
+      "title": "Kia Picanto 1.2 AUT Comfort",
+      "price": "Цена 13990 € с ДДС / 27362.06 лв. с ДДС",
+      "link": "https://kia.bg/bg/used-cars/514/kia-picanto-1-2-aut-comfort",
+      "source": "kia",
+      "scraped_date": "2026-06-05T10:40:04.814656"
+    },
+    {
+      "id": "/bg/used-cars/575/vw-arteon-2-0-tdi-dsg-r-line",
+      "title": "VW Arteon 2.0 TDI DSG R-line",
+      "price": "Цена 21990 € с ДДС / 43008.70 лв. с ДДС",
+      "link": "https://kia.bg/bg/used-cars/575/vw-arteon-2-0-tdi-dsg-r-line",
+      "source": "kia",
+      "scraped_date": "2026-06-05T10:40:08.350498"
+    },
+    {
+      "id": "/bg/used-cars/549/kia-x-ceed-gt-line-1-6-t-gdi",
+      "title": "Kia X Ceed GT-line 1.6 T-gdi",
+      "price": "Цена 25500 € не се начислява ДДС / 49873.67 лв. не се начислява ДДС",
+      "link": "https://kia.bg/bg/used-cars/549/kia-x-ceed-gt-line-1-6-t-gdi",
+      "source": "kia",
+      "scraped_date": "2026-06-05T10:40:08.412229"
     }
   ]
 }
