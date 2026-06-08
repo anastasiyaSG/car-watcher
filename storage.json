@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-06-05T10:40:14.794139",
-  "total_cars": 107,
+  "last_scraped": "2026-06-08T08:44:41.640941",
+  "total_cars": 108,
   "nissan_count": 43,
-  "kia_count": 64,
+  "kia_count": 65,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -859,6 +859,14 @@
       "link": "https://kia.bg/bg/used-cars/549/kia-x-ceed-gt-line-1-6-t-gdi",
       "source": "kia",
       "scraped_date": "2026-06-05T10:40:08.412229"
+    },
+    {
+      "id": "/bg/used-cars/576/vw-arteon-2-0-tdi-dsg-r-line",
+      "title": "VW Arteon 2.0 TDI DSG R-line",
+      "price": "Цена 26490 € с ДДС / 51809.94 лв. с ДДС",
+      "link": "https://kia.bg/bg/used-cars/576/vw-arteon-2-0-tdi-dsg-r-line",
+      "source": "kia",
+      "scraped_date": "2026-06-08T08:44:38.285034"
     }
   ]
 }
