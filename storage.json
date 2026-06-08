@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-06-08T08:44:41.640941",
-  "total_cars": 108,
+  "last_scraped": "2026-06-08T19:14:41.020360",
+  "total_cars": 109,
   "nissan_count": 43,
-  "kia_count": 65,
+  "kia_count": 66,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -867,6 +867,14 @@
       "link": "https://kia.bg/bg/used-cars/576/vw-arteon-2-0-tdi-dsg-r-line",
       "source": "kia",
       "scraped_date": "2026-06-08T08:44:38.285034"
+    },
+    {
+      "id": "/bg/used-cars/520/kia-sportage-1-6-t-gdi-2wd-comfort",
+      "title": "Kia Sportage 1.6 T-gdi 2WD Comfort",
+      "price": "Цена 21990 € не се начислява ДДС / 43008.70 лв. не се начислява ДДС",
+      "link": "https://kia.bg/bg/used-cars/520/kia-sportage-1-6-t-gdi-2wd-comfort",
+      "source": "kia",
+      "scraped_date": "2026-06-08T19:14:35.323186"
     }
   ]
 }
