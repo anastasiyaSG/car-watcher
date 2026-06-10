@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-06-09T10:27:30.581202",
-  "total_cars": 110,
+  "last_scraped": "2026-06-10T14:17:45.732118",
+  "total_cars": 111,
   "nissan_count": 44,
-  "kia_count": 66,
+  "kia_count": 67,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -883,6 +883,14 @@
       "link": "https://www.omnicar.nissan.bg/catalog/482-nissan-qashqai",
       "source": "nissan",
       "scraped_date": "2026-06-09T10:27:22.849225"
+    },
+    {
+      "id": "/bg/used-cars/178/kia-sportage-2-0-crdi-4x4-ex-6mt",
+      "title": "Kia Sportage 2.0 crdi  4X4 EX  6MT",
+      "price": "Цена 16990 € не се начислява ДДС / 33229.55 лв. не се начислява ДДС",
+      "link": "https://kia.bg/bg/used-cars/178/kia-sportage-2-0-crdi-4x4-ex-6mt",
+      "source": "kia",
+      "scraped_date": "2026-06-10T14:17:36.675630"
     }
   ]
 }
