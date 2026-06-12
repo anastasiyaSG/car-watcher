@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-06-11T18:40:14.325190",
-  "total_cars": 112,
-  "nissan_count": 44,
-  "kia_count": 68,
+  "last_scraped": "2026-06-12T13:57:14.619072",
+  "total_cars": 114,
+  "nissan_count": 45,
+  "kia_count": 69,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -899,6 +899,22 @@
       "link": "https://kia.bg/bg/used-cars/388/kia-sorento-1-6-crdi-4x4-6-1",
       "source": "kia",
       "scraped_date": "2026-06-11T18:40:11.513530"
+    },
+    {
+      "id": "https://www.omnicar.nissan.bg/catalog/483-nissan-qashqai",
+      "title": "Nissan Qashqai E-Power Tekna",
+      "price": "€ 28 990,00",
+      "link": "https://www.omnicar.nissan.bg/catalog/483-nissan-qashqai",
+      "source": "nissan",
+      "scraped_date": "2026-06-12T13:57:06.842168"
+    },
+    {
+      "id": "/bg/used-cars/388/kia-sorento-2-2-crdi-4x4-6-1",
+      "title": "Kia Sorento 2.2 CRDI 4x4 6+1",
+      "price": "Цена 34990 € с ДДС / 68434.49 лв. с ДДС",
+      "link": "https://kia.bg/bg/used-cars/388/kia-sorento-2-2-crdi-4x4-6-1",
+      "source": "kia",
+      "scraped_date": "2026-06-12T13:57:11.768585"
     }
   ]
 }
