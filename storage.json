@@ -1,7 +1,7 @@
 {
-  "last_scraped": "2026-06-12T13:57:14.619072",
-  "total_cars": 114,
-  "nissan_count": 45,
+  "last_scraped": "2026-06-16T10:53:09.600756",
+  "total_cars": 115,
+  "nissan_count": 46,
   "kia_count": 69,
   "cars": [
     {
@@ -915,6 +915,14 @@
       "link": "https://kia.bg/bg/used-cars/388/kia-sorento-2-2-crdi-4x4-6-1",
       "source": "kia",
       "scraped_date": "2026-06-12T13:57:11.768585"
+    },
+    {
+      "id": "https://www.omnicar.nissan.bg/catalog/484-nissan-ariya",
+      "title": "Nissan Ariya 87 kWh EVOLVE",
+      "price": "€ 49 590,00",
+      "link": "https://www.omnicar.nissan.bg/catalog/484-nissan-ariya",
+      "source": "nissan",
+      "scraped_date": "2026-06-16T10:53:00.155994"
     }
   ]
 }
