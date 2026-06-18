@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-06-16T10:53:09.600756",
-  "total_cars": 115,
+  "last_scraped": "2026-06-18T14:45:57.243589",
+  "total_cars": 116,
   "nissan_count": 46,
-  "kia_count": 69,
+  "kia_count": 70,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -923,6 +923,14 @@
       "link": "https://www.omnicar.nissan.bg/catalog/484-nissan-ariya",
       "source": "nissan",
       "scraped_date": "2026-06-16T10:53:00.155994"
+    },
+    {
+      "id": "/bg/used-cars/338/kia-rio-1-0-turbo-aut",
+      "title": "Kia Rio 1.0 Turbo AUT",
+      "price": "Цена 9990 € с ДДС / 19538.74 лв. с ДДС",
+      "link": "https://kia.bg/bg/used-cars/338/kia-rio-1-0-turbo-aut",
+      "source": "kia",
+      "scraped_date": "2026-06-18T14:45:47.892243"
     }
   ]
 }
