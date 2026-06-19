@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-06-18T14:45:57.243589",
-  "total_cars": 116,
+  "last_scraped": "2026-06-19T10:11:31.268146",
+  "total_cars": 117,
   "nissan_count": 46,
-  "kia_count": 70,
+  "kia_count": 71,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -931,6 +931,14 @@
       "link": "https://kia.bg/bg/used-cars/338/kia-rio-1-0-turbo-aut",
       "source": "kia",
       "scraped_date": "2026-06-18T14:45:47.892243"
+    },
+    {
+      "id": "/bg/used-cars/577/kia-ceed-sw-1-6-crdi",
+      "title": "Kia Ceed SW 1.6 CRDI",
+      "price": "Цена 11990 € с ДДС / 23450.40 лв. с ДДС",
+      "link": "https://kia.bg/bg/used-cars/577/kia-ceed-sw-1-6-crdi",
+      "source": "kia",
+      "scraped_date": "2026-06-19T10:11:21.706772"
     }
   ]
 }
