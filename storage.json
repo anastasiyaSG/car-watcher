@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-06-19T10:11:31.268146",
-  "total_cars": 117,
+  "last_scraped": "2026-06-19T13:53:13.620815",
+  "total_cars": 120,
   "nissan_count": 46,
-  "kia_count": 71,
+  "kia_count": 74,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -939,6 +939,30 @@
       "link": "https://kia.bg/bg/used-cars/577/kia-ceed-sw-1-6-crdi",
       "source": "kia",
       "scraped_date": "2026-06-19T10:11:21.706772"
+    },
+    {
+      "id": "/bg/used-cars/459/kia-x-ceed-1-0-turbo-comfort",
+      "title": "Kia X Ceed 1.0 Turbo Comfort",
+      "price": "Цена 11990 € с ДДС / 23450.40 лв. с ДДС",
+      "link": "https://kia.bg/bg/used-cars/459/kia-x-ceed-1-0-turbo-comfort",
+      "source": "kia",
+      "scraped_date": "2026-06-19T13:53:03.105242"
+    },
+    {
+      "id": "/bg/used-cars/334/kia-sportage-1-6-crdi-2wd-comfort",
+      "title": "Kia Sportage 1.6 crdi 2wd Comfort",
+      "price": "Цена 15990 € с ДДС / 31273.72 лв. с ДДС",
+      "link": "https://kia.bg/bg/used-cars/334/kia-sportage-1-6-crdi-2wd-comfort",
+      "source": "kia",
+      "scraped_date": "2026-06-19T13:53:03.141410"
+    },
+    {
+      "id": "/bg/used-cars/543/skoda-octavia-2-0-tdi-business",
+      "title": "Skoda Octavia 2.0 tdi Business",
+      "price": "Цена 18990 € с ДДС / 37141.21 лв. с ДДС",
+      "link": "https://kia.bg/bg/used-cars/543/skoda-octavia-2-0-tdi-business",
+      "source": "kia",
+      "scraped_date": "2026-06-19T13:53:05.849691"
     }
   ]
 }
