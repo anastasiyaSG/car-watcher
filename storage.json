@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-06-19T13:53:13.620815",
-  "total_cars": 120,
-  "nissan_count": 46,
-  "kia_count": 74,
+  "last_scraped": "2026-06-30T15:07:56.037020",
+  "total_cars": 124,
+  "nissan_count": 47,
+  "kia_count": 77,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -963,6 +963,38 @@
       "link": "https://kia.bg/bg/used-cars/543/skoda-octavia-2-0-tdi-business",
       "source": "kia",
       "scraped_date": "2026-06-19T13:53:05.849691"
+    },
+    {
+      "id": "https://www.omnicar.nissan.bg/catalog/485-nissan-qashqai",
+      "title": "Nissan Qashqai 1.3 DIG-T Tekna Plus A/T",
+      "price": "€ 17 590,00",
+      "link": "https://www.omnicar.nissan.bg/catalog/485-nissan-qashqai",
+      "source": "nissan",
+      "scraped_date": "2026-06-30T15:07:48.431837"
+    },
+    {
+      "id": "/bg/used-cars/579/dacia-dokker-1-6-s-ce-110-k-s-benzin-gaz-n1",
+      "title": "DACIA Dokker 1.6 SCe 110 к.с. Бензин/Газ   N1",
+      "price": "Цена 11990 € с ДДС / 23450.40 лв. с ДДС",
+      "link": "https://kia.bg/bg/used-cars/579/dacia-dokker-1-6-s-ce-110-k-s-benzin-gaz-n1",
+      "source": "kia",
+      "scraped_date": "2026-06-30T15:07:47.272741"
+    },
+    {
+      "id": "/bg/used-cars/578/huyndai-kona-1-6-t-gdi-4wd",
+      "title": "Huyndai Kona 1.6 T-gdi  4wd",
+      "price": "Цена 21990 € с ДДС / 43008.70 лв. с ДДС",
+      "link": "https://kia.bg/bg/used-cars/578/huyndai-kona-1-6-t-gdi-4wd",
+      "source": "kia",
+      "scraped_date": "2026-06-30T15:07:50.256742"
+    },
+    {
+      "id": "/bg/used-cars/487/kia-sorento-2-2-crdi-executive-4x4-aut",
+      "title": "Kia Sorento 2.2 crdi EXECUTIVE 4X4 AUT",
+      "price": "Цена 28990 € с ДДС / 56699.51 лв. с ДДС",
+      "link": "https://kia.bg/bg/used-cars/487/kia-sorento-2-2-crdi-executive-4x4-aut",
+      "source": "kia",
+      "scraped_date": "2026-06-30T15:07:53.138117"
     }
   ]
 }
