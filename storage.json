@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-06-30T15:07:56.037020",
-  "total_cars": 124,
-  "nissan_count": 47,
-  "kia_count": 77,
+  "last_scraped": "2026-07-01T08:02:11.191842",
+  "total_cars": 127,
+  "nissan_count": 48,
+  "kia_count": 79,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -995,6 +995,30 @@
       "link": "https://kia.bg/bg/used-cars/487/kia-sorento-2-2-crdi-executive-4x4-aut",
       "source": "kia",
       "scraped_date": "2026-06-30T15:07:53.138117"
+    },
+    {
+      "id": "https://www.omnicar.nissan.bg/catalog/486-nissan-juke",
+      "title": "Nissan Juke 1.6 Hybrid Tekna",
+      "price": "€ 20 950,00",
+      "link": "https://www.omnicar.nissan.bg/catalog/486-nissan-juke",
+      "source": "nissan",
+      "scraped_date": "2026-07-01T08:02:00.584596"
+    },
+    {
+      "id": "/bg/used-cars/581/kia-sportage-1-6-crdi-aut-4x4",
+      "title": "Kia Sportage 1.6 crdi AUT 4X4",
+      "price": "Цена 21990 €  / 43008.70 лв.",
+      "link": "https://kia.bg/bg/used-cars/581/kia-sportage-1-6-crdi-aut-4x4",
+      "source": "kia",
+      "scraped_date": "2026-07-01T08:02:02.276531"
+    },
+    {
+      "id": "/bg/used-cars/580/kia-sportage-1-6-crdi-aut-4x4",
+      "title": "Kia Sportage 1.6 crdi  AUT  4X4",
+      "price": "Цена 23990 € с ДДС / 46920.36 лв. с ДДС",
+      "link": "https://kia.bg/bg/used-cars/580/kia-sportage-1-6-crdi-aut-4x4",
+      "source": "kia",
+      "scraped_date": "2026-07-01T08:02:02.330418"
     }
   ]
 }
