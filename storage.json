@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-07-01T08:02:11.191842",
-  "total_cars": 127,
+  "last_scraped": "2026-07-03T11:25:15.651230",
+  "total_cars": 129,
   "nissan_count": 48,
-  "kia_count": 79,
+  "kia_count": 81,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -1019,6 +1019,22 @@
       "link": "https://kia.bg/bg/used-cars/580/kia-sportage-1-6-crdi-aut-4x4",
       "source": "kia",
       "scraped_date": "2026-07-01T08:02:02.330418"
+    },
+    {
+      "id": "/bg/used-cars/358/kia-rio-1-2",
+      "title": "Kia Rio 1.2",
+      "price": "Цена 9990 € с ДДС / 19538.74 лв. с ДДС",
+      "link": "https://kia.bg/bg/used-cars/358/kia-rio-1-2",
+      "source": "kia",
+      "scraped_date": "2026-07-03T11:25:00.847039"
+    },
+    {
+      "id": "/bg/used-cars/582/audi-a4-2-0-tfsi",
+      "title": "Audi A4  2.0 TFSI",
+      "price": "Цена 27990 € с ДДС / 54743.68 лв. с ДДС",
+      "link": "https://kia.bg/bg/used-cars/582/audi-a4-2-0-tfsi",
+      "source": "kia",
+      "scraped_date": "2026-07-03T11:25:08.574972"
     }
   ]
 }
