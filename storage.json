@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-07-03T11:25:15.651230",
-  "total_cars": 129,
+  "last_scraped": "2026-07-06T14:41:30.898636",
+  "total_cars": 130,
   "nissan_count": 48,
-  "kia_count": 81,
+  "kia_count": 82,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -1035,6 +1035,14 @@
       "link": "https://kia.bg/bg/used-cars/582/audi-a4-2-0-tfsi",
       "source": "kia",
       "scraped_date": "2026-07-03T11:25:08.574972"
+    },
+    {
+      "id": "/bg/used-cars/524/kia-ceed-sw-gt-line-1-5-t-gdi",
+      "title": "Kia Ceed SW GT-line 1.5 T-gdi",
+      "price": "Цена 24990 € не се начислява ДДС / 48876.19 лв. не се начислява ДДС",
+      "link": "https://kia.bg/bg/used-cars/524/kia-ceed-sw-gt-line-1-5-t-gdi",
+      "source": "kia",
+      "scraped_date": "2026-07-06T14:41:25.196210"
     }
   ]
 }
