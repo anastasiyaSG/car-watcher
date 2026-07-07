@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-07-06T14:41:30.898636",
-  "total_cars": 130,
+  "last_scraped": "2026-07-07T15:39:52.687956",
+  "total_cars": 133,
   "nissan_count": 48,
-  "kia_count": 82,
+  "kia_count": 85,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -1043,6 +1043,30 @@
       "link": "https://kia.bg/bg/used-cars/524/kia-ceed-sw-gt-line-1-5-t-gdi",
       "source": "kia",
       "scraped_date": "2026-07-06T14:41:25.196210"
+    },
+    {
+      "id": "/bg/used-cars/419/kia-ceed-sw-1-5-t-gdi-comfort",
+      "title": "Kia Ceed SW 1.5 T-gdi Comfort",
+      "price": "Цена 18990 € не се начислява ДДС / 37141.21 лв. не се начислява ДДС",
+      "link": "https://kia.bg/bg/used-cars/419/kia-ceed-sw-1-5-t-gdi-comfort",
+      "source": "kia",
+      "scraped_date": "2026-07-07T15:39:44.433341"
+    },
+    {
+      "id": "/bg/used-cars/520/kia-sportage-1-6-t-gdi-2wd-comfort-aut",
+      "title": "Kia Sportage 1.6 T-gdi 2WD Comfort AUT",
+      "price": "Цена 23990 € не се начислява ДДС / 46920.36 лв. не се начислява ДДС",
+      "link": "https://kia.bg/bg/used-cars/520/kia-sportage-1-6-t-gdi-2wd-comfort-aut",
+      "source": "kia",
+      "scraped_date": "2026-07-07T15:39:47.199572"
+    },
+    {
+      "id": "/bg/used-cars/452/kia-sportage-1-6-t-gdi-gt-line-4x4",
+      "title": "Kia Sportage 1.6 T-GDI  GT-line  4x4",
+      "price": "Цена 29990 € с ДДС / 58655.34 лв. с ДДС",
+      "link": "https://kia.bg/bg/used-cars/452/kia-sportage-1-6-t-gdi-gt-line-4x4",
+      "source": "kia",
+      "scraped_date": "2026-07-07T15:39:50.017242"
     }
   ]
 }
