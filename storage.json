@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-07-07T15:39:52.687956",
-  "total_cars": 133,
+  "last_scraped": "2026-07-10T15:08:20.762633",
+  "total_cars": 134,
   "nissan_count": 48,
-  "kia_count": 85,
+  "kia_count": 86,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -1067,6 +1067,14 @@
       "link": "https://kia.bg/bg/used-cars/452/kia-sportage-1-6-t-gdi-gt-line-4x4",
       "source": "kia",
       "scraped_date": "2026-07-07T15:39:50.017242"
+    },
+    {
+      "id": "/bg/used-cars/381/kia-xceed-1-5-tgdi-eh",
+      "title": "Kia Xceed 1.5 Tgdi  ЕХ",
+      "price": "Цена 22690 € не се начислява ДДС / 44377.78 лв. не се начислява ДДС",
+      "link": "https://kia.bg/bg/used-cars/381/kia-xceed-1-5-tgdi-eh",
+      "source": "kia",
+      "scraped_date": "2026-07-10T15:08:13.067833"
     }
   ]
 }
