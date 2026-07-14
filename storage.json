@@ -1,7 +1,7 @@
 {
-  "last_scraped": "2026-07-10T15:08:20.762633",
-  "total_cars": 134,
-  "nissan_count": 48,
+  "last_scraped": "2026-07-14T15:54:05.505789",
+  "total_cars": 135,
+  "nissan_count": 49,
   "kia_count": 86,
   "cars": [
     {
@@ -1075,6 +1075,14 @@
       "link": "https://kia.bg/bg/used-cars/381/kia-xceed-1-5-tgdi-eh",
       "source": "kia",
       "scraped_date": "2026-07-10T15:08:13.067833"
+    },
+    {
+      "id": "https://www.omnicar.nissan.bg/catalog/487-nissan-qashqai",
+      "title": "Nissan Qashqai 1.3 DDT Tekna Plus 4x2 A/T",
+      "price": "€ 25 490,00",
+      "link": "https://www.omnicar.nissan.bg/catalog/487-nissan-qashqai",
+      "source": "nissan",
+      "scraped_date": "2026-07-14T15:53:55.510488"
     }
   ]
 }
