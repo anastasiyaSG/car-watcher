@@ -1,7 +1,7 @@
 {
-  "last_scraped": "2026-07-14T15:54:05.505789",
-  "total_cars": 135,
-  "nissan_count": 49,
+  "last_scraped": "2026-07-15T14:17:19.093118",
+  "total_cars": 136,
+  "nissan_count": 50,
   "kia_count": 86,
   "cars": [
     {
@@ -1083,6 +1083,14 @@
       "link": "https://www.omnicar.nissan.bg/catalog/487-nissan-qashqai",
       "source": "nissan",
       "scraped_date": "2026-07-14T15:53:55.510488"
+    },
+    {
+      "id": "https://www.omnicar.nissan.bg/catalog/488-nissan-qashqai",
+      "title": "Nissan Qashqai E-Power N-Connecta",
+      "price": "€ 27 190,00",
+      "link": "https://www.omnicar.nissan.bg/catalog/488-nissan-qashqai",
+      "source": "nissan",
+      "scraped_date": "2026-07-15T14:17:12.290545"
     }
   ]
 }
