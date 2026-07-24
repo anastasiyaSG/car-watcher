@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-07-23T07:54:13.332437",
-  "total_cars": 138,
+  "last_scraped": "2026-07-24T07:33:27.777069",
+  "total_cars": 139,
   "nissan_count": 51,
-  "kia_count": 87,
+  "kia_count": 88,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -1107,6 +1107,14 @@
       "link": "https://www.omnicar.nissan.bg/catalog/489-nissan-xtrail",
       "source": "nissan",
       "scraped_date": "2026-07-23T07:54:05.428016"
+    },
+    {
+      "id": "/bg/used-cars/233/kia-stonic-1-0-turbo-gt-line",
+      "title": "Kia Stonic 1.0 Turbo / GT LINE",
+      "price": "Цена 19990 € с ДДС / 39097.04 лв. с ДДС",
+      "link": "https://kia.bg/bg/used-cars/233/kia-stonic-1-0-turbo-gt-line",
+      "source": "kia",
+      "scraped_date": "2026-07-24T07:33:18.737589"
     }
   ]
 }
