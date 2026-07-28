@@ -1,7 +1,7 @@
 {
-  "last_scraped": "2026-07-24T07:33:27.777069",
-  "total_cars": 139,
-  "nissan_count": 51,
+  "last_scraped": "2026-07-28T10:23:29.374037",
+  "total_cars": 140,
+  "nissan_count": 52,
   "kia_count": 88,
   "cars": [
     {
@@ -1115,6 +1115,14 @@
       "link": "https://kia.bg/bg/used-cars/233/kia-stonic-1-0-turbo-gt-line",
       "source": "kia",
       "scraped_date": "2026-07-24T07:33:18.737589"
+    },
+    {
+      "id": "https://www.omnicar.nissan.bg/catalog/490-nissan-xtrail",
+      "title": "Nissan X-Trail E-4orce Tekna Plus 4x4",
+      "price": "€ 34 290,00",
+      "link": "https://www.omnicar.nissan.bg/catalog/490-nissan-xtrail",
+      "source": "nissan",
+      "scraped_date": "2026-07-28T10:23:22.145003"
     }
   ]
 }
