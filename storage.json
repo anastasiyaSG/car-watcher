@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-07-28T10:23:29.374037",
-  "total_cars": 140,
+  "last_scraped": "2026-07-30T09:09:51.803013",
+  "total_cars": 141,
   "nissan_count": 52,
-  "kia_count": 88,
+  "kia_count": 89,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -1123,6 +1123,14 @@
       "link": "https://www.omnicar.nissan.bg/catalog/490-nissan-xtrail",
       "source": "nissan",
       "scraped_date": "2026-07-28T10:23:22.145003"
+    },
+    {
+      "id": "/bg/used-cars/583/audi-q5-quattro-2-0-tdi",
+      "title": "Audi Q5 quattro 2.0 TDI",
+      "price": "Цена 31990 € с ДДС / 62567.00 лв. с ДДС",
+      "link": "https://kia.bg/bg/used-cars/583/audi-q5-quattro-2-0-tdi",
+      "source": "kia",
+      "scraped_date": "2026-07-30T09:09:43.822169"
     }
   ]
 }
