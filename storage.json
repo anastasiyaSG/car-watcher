@@ -1,7 +1,7 @@
 {
-  "last_scraped": "2026-07-30T09:09:51.803013",
-  "total_cars": 141,
-  "nissan_count": 52,
+  "last_scraped": "2026-07-30T15:29:02.811336",
+  "total_cars": 142,
+  "nissan_count": 53,
   "kia_count": 89,
   "cars": [
     {
@@ -1131,6 +1131,14 @@
       "link": "https://kia.bg/bg/used-cars/583/audi-q5-quattro-2-0-tdi",
       "source": "kia",
       "scraped_date": "2026-07-30T09:09:43.822169"
+    },
+    {
+      "id": "https://www.omnicar.nissan.bg/catalog/491-nissan-micra",
+      "title": "Nissan Micra Tekna 6M/T",
+      "price": "€ 8 190,00",
+      "link": "https://www.omnicar.nissan.bg/catalog/491-nissan-micra",
+      "source": "nissan",
+      "scraped_date": "2026-07-30T15:28:54.221024"
     }
   ]
 }
