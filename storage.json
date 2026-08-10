@@ -1,7 +1,7 @@
 {
-  "last_scraped": "2026-07-30T15:29:02.811336",
-  "total_cars": 142,
-  "nissan_count": 53,
+  "last_scraped": "2026-08-10T06:49:01.243066",
+  "total_cars": 144,
+  "nissan_count": 55,
   "kia_count": 89,
   "cars": [
     {
@@ -1139,6 +1139,22 @@
       "link": "https://www.omnicar.nissan.bg/catalog/491-nissan-micra",
       "source": "nissan",
       "scraped_date": "2026-07-30T15:28:54.221024"
+    },
+    {
+      "id": "https://www.omnicar.nissan.bg/catalog/493-nissan-juke",
+      "title": "Nissan Juke 1.0 DIG-T N-Connecta 4x2 A/T",
+      "price": "€ 20 290,00",
+      "link": "https://www.omnicar.nissan.bg/catalog/493-nissan-juke",
+      "source": "nissan",
+      "scraped_date": "2026-08-10T06:48:54.089312"
+    },
+    {
+      "id": "https://www.omnicar.nissan.bg/catalog/492-nissan-juke",
+      "title": "Nissan Juke 1.0 DIG-T Tekna 4x2 A/T",
+      "price": "€ 18 900,00",
+      "link": "https://www.omnicar.nissan.bg/catalog/492-nissan-juke",
+      "source": "nissan",
+      "scraped_date": "2026-08-10T06:48:54.102177"
     }
   ]
 }
