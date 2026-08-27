@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-08-20T09:56:47.897987",
-  "total_cars": 148,
+  "last_scraped": "2026-08-27T17:03:59.008165",
+  "total_cars": 150,
   "nissan_count": 57,
-  "kia_count": 91,
+  "kia_count": 93,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -1187,6 +1187,22 @@
       "link": "https://kia.bg/bg/used-cars/177/kia-sportage-2-0-crdi-4x4-ex",
       "source": "kia",
       "scraped_date": "2026-08-20T09:56:39.699850"
+    },
+    {
+      "id": "/bg/used-cars/520/kia-sportage-1-6-crdi-2wd-comfort",
+      "title": "Kia Sportage 1.6 CRDI 2WD Comfort",
+      "price": "Цена 14990 € с ДДС / 29317.89 лв. с ДДС",
+      "link": "https://kia.bg/bg/used-cars/520/kia-sportage-1-6-crdi-2wd-comfort",
+      "source": "kia",
+      "scraped_date": "2026-08-27T17:03:51.002005"
+    },
+    {
+      "id": "/bg/used-cars/584/volvo-s60-2-0-l",
+      "title": "Volvo S60 2.0 L",
+      "price": "Цена 29990 € с ДДС / 58655.34 лв. с ДДС",
+      "link": "https://kia.bg/bg/used-cars/584/volvo-s60-2-0-l",
+      "source": "kia",
+      "scraped_date": "2026-08-27T17:03:53.871819"
     }
   ]
 }
