@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-08-27T17:03:59.008165",
-  "total_cars": 150,
+  "last_scraped": "2026-09-01T08:59:53.016008",
+  "total_cars": 154,
   "nissan_count": 57,
-  "kia_count": 93,
+  "kia_count": 97,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -1203,6 +1203,38 @@
       "link": "https://kia.bg/bg/used-cars/584/volvo-s60-2-0-l",
       "source": "kia",
       "scraped_date": "2026-08-27T17:03:53.871819"
+    },
+    {
+      "id": "/bg/used-cars/592/renault-megane-1-5-t-ce",
+      "title": "Renault Megane 1.5 TCe",
+      "price": "Цена 11990 € с ДДС / 23450.40 лв. с ДДС",
+      "link": "https://kia.bg/bg/used-cars/592/renault-megane-1-5-t-ce",
+      "source": "kia",
+      "scraped_date": "2026-09-01T08:59:43.879621"
+    },
+    {
+      "id": "/bg/used-cars/591/peugeot-2008-1-2-gt",
+      "title": "Peugeot 2008 1.2 GT",
+      "price": "Цена 14490 €  / 28339.98 лв.",
+      "link": "https://kia.bg/bg/used-cars/591/peugeot-2008-1-2-gt",
+      "source": "kia",
+      "scraped_date": "2026-09-01T08:59:43.933565"
+    },
+    {
+      "id": "/bg/used-cars/587/renault-trafic-2-0-dci-van",
+      "title": "Renault Trafic 2.0 dci Van",
+      "price": "Цена 19990 € с ДДС / 39097.04 лв. с ДДС",
+      "link": "https://kia.bg/bg/used-cars/587/renault-trafic-2-0-dci-van",
+      "source": "kia",
+      "scraped_date": "2026-09-01T08:59:47.088955"
+    },
+    {
+      "id": "/bg/used-cars/585/kia-stonic-1-0-turbo-comfort-aut",
+      "title": "Kia Stonic 1.0 Turbo Comfort AUT.",
+      "price": "Цена 21990 € не се начислява ДДС / 43008.70 лв. не се начислява ДДС",
+      "link": "https://kia.bg/bg/used-cars/585/kia-stonic-1-0-turbo-comfort-aut",
+      "source": "kia",
+      "scraped_date": "2026-09-01T08:59:47.106008"
     }
   ]
 }
