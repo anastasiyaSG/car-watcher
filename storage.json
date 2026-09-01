@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-09-01T08:59:53.016008",
-  "total_cars": 154,
+  "last_scraped": "2026-09-01T13:58:12.838492",
+  "total_cars": 155,
   "nissan_count": 57,
-  "kia_count": 97,
+  "kia_count": 98,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -1235,6 +1235,14 @@
       "link": "https://kia.bg/bg/used-cars/585/kia-stonic-1-0-turbo-comfort-aut",
       "source": "kia",
       "scraped_date": "2026-09-01T08:59:47.106008"
+    },
+    {
+      "id": "/bg/used-cars/593/Закупен и сервизиран от Киа България!",
+      "title": "Kia Ceed 1.4 T-gdi",
+      "price": "Цена 11990 € не се начислява ДДС / 23450.40 лв. не се начислява ДДС",
+      "link": "https://kia.bg/bg/used-cars/593/Закупен и сервизиран от Киа България!",
+      "source": "kia",
+      "scraped_date": "2026-09-01T13:58:04.804772"
     }
   ]
 }
