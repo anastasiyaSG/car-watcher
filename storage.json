@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-09-01T13:58:12.838492",
-  "total_cars": 155,
+  "last_scraped": "2026-09-03T09:58:18.906170",
+  "total_cars": 156,
   "nissan_count": 57,
-  "kia_count": 98,
+  "kia_count": 99,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -1243,6 +1243,14 @@
       "link": "https://kia.bg/bg/used-cars/593/Закупен и сервизиран от Киа България!",
       "source": "kia",
       "scraped_date": "2026-09-01T13:58:04.804772"
+    },
+    {
+      "id": "/bg/used-cars/594/kia-pro-ceed-1-4-t-gdi-sx-garancija",
+      "title": "Kia Pro ceed 1.4 T-gdi SX Гаранция",
+      "price": "Цена 16990 € не се начислява ДДС / 33229.55 лв. не се начислява ДДС",
+      "link": "https://kia.bg/bg/used-cars/594/kia-pro-ceed-1-4-t-gdi-sx-garancija",
+      "source": "kia",
+      "scraped_date": "2026-09-03T09:58:13.075774"
     }
   ]
 }
