@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-09-08T09:54:30.530508",
-  "total_cars": 157,
+  "last_scraped": "2026-09-09T10:21:40.449592",
+  "total_cars": 158,
   "nissan_count": 58,
-  "kia_count": 99,
+  "kia_count": 100,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -1259,6 +1259,14 @@
       "link": "https://www.omnicar.nissan.bg/catalog/496-nissan-juke",
       "source": "nissan",
       "scraped_date": "2026-09-08T09:54:23.147644"
+    },
+    {
+      "id": "/bg/used-cars/595/peugeot-5008-2-0-blue-h-di-new-line-gt",
+      "title": "Peugeot 5008 2.0 BlueHDi New Line GT",
+      "price": "Цена 27990 € с ДДС / 54743.68 лв. с ДДС",
+      "link": "https://kia.bg/bg/used-cars/595/peugeot-5008-2-0-blue-h-di-new-line-gt",
+      "source": "kia",
+      "scraped_date": "2026-09-09T10:21:34.412151"
     }
   ]
 }
