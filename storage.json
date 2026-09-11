@@ -1,7 +1,7 @@
 {
-  "last_scraped": "2026-09-09T10:21:40.449592",
-  "total_cars": 158,
-  "nissan_count": 58,
+  "last_scraped": "2026-09-11T06:13:19.269938",
+  "total_cars": 159,
+  "nissan_count": 59,
   "kia_count": 100,
   "cars": [
     {
@@ -1267,6 +1267,14 @@
       "link": "https://kia.bg/bg/used-cars/595/peugeot-5008-2-0-blue-h-di-new-line-gt",
       "source": "kia",
       "scraped_date": "2026-09-09T10:21:34.412151"
+    },
+    {
+      "id": "https://www.omnicar.nissan.bg/catalog/497-nissan-qashqai",
+      "title": "Nissan Qashqai 1.5 E-Power Tekna Plus #42",
+      "price": "€ 29 980,00",
+      "link": "https://www.omnicar.nissan.bg/catalog/497-nissan-qashqai",
+      "source": "nissan",
+      "scraped_date": "2026-09-11T06:13:06.739448"
     }
   ]
 }
