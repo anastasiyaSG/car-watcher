@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-09-11T06:13:19.269938",
-  "total_cars": 159,
+  "last_scraped": "2026-09-11T11:36:11.441358",
+  "total_cars": 162,
   "nissan_count": 59,
-  "kia_count": 100,
+  "kia_count": 103,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -1275,6 +1275,30 @@
       "link": "https://www.omnicar.nissan.bg/catalog/497-nissan-qashqai",
       "source": "nissan",
       "scraped_date": "2026-09-11T06:13:06.739448"
+    },
+    {
+      "id": "/bg/used-cars/597/kia-rio-1-2-cvvt-garancija",
+      "title": "Kia Rio 1.2 cvvt Гаранция",
+      "price": "Цена 9990 € с ДДС",
+      "link": "https://kia.bg/bg/used-cars/597/kia-rio-1-2-cvvt-garancija",
+      "source": "kia",
+      "scraped_date": "2026-09-11T11:36:03.035960"
+    },
+    {
+      "id": "/bg/used-cars/598/peudeot-2008-1-2-pure-tech-gt",
+      "title": "Peudeot 2008 1.2 PureTech GT",
+      "price": "Цена 14490 € не се начислява ДДС",
+      "link": "https://kia.bg/bg/used-cars/598/peudeot-2008-1-2-pure-tech-gt",
+      "source": "kia",
+      "scraped_date": "2026-09-11T11:36:03.094944"
+    },
+    {
+      "id": "/bg/used-cars/596/kia-sportage-1-6-t-gdi-4h4-ex-garancija",
+      "title": "Kia Sportage 1.6 T-gdi 4х4 EX Гаранция",
+      "price": "Цена 24990 € с ДДС",
+      "link": "https://kia.bg/bg/used-cars/596/kia-sportage-1-6-t-gdi-4h4-ex-garancija",
+      "source": "kia",
+      "scraped_date": "2026-09-11T11:36:05.959930"
     }
   ]
 }
