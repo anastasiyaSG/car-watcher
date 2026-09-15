@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-09-15T10:40:04.966988",
-  "total_cars": 163,
+  "last_scraped": "2026-09-15T15:20:30.698925",
+  "total_cars": 166,
   "nissan_count": 59,
-  "kia_count": 104,
+  "kia_count": 107,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -1307,6 +1307,30 @@
       "link": "https://kia.bg/bg/used-cars/599/kia-sportage-1-6-t-gdi-ex-black-edition-garancija",
       "source": "kia",
       "scraped_date": "2026-09-15T10:39:55.858467"
+    },
+    {
+      "id": "/bg/used-cars/602/kia-ceed-1-5-t-gdi-comfort-garancija",
+      "title": "Kia Ceed 1.5 T-gdi Comfort Гаранция",
+      "price": "Цена 14990 € с ДДС",
+      "link": "https://kia.bg/bg/used-cars/602/kia-ceed-1-5-t-gdi-comfort-garancija",
+      "source": "kia",
+      "scraped_date": "2026-09-15T15:20:22.468148"
+    },
+    {
+      "id": "/bg/used-cars/600/kia-ceed-1-5-t-gdi-comfort-garancija",
+      "title": "Kia Ceed 1.5 T-gdi Comfort Гаранция",
+      "price": "Цена 16490 € с ДДС",
+      "link": "https://kia.bg/bg/used-cars/600/kia-ceed-1-5-t-gdi-comfort-garancija",
+      "source": "kia",
+      "scraped_date": "2026-09-15T15:20:22.481799"
+    },
+    {
+      "id": "/bg/used-cars/585/kia-stonic-1-0-turbo-comfort",
+      "title": "Kia Stonic 1.0 Turbo Comfort .",
+      "price": "Цена 21490 € не се начислява ДДС",
+      "link": "https://kia.bg/bg/used-cars/585/kia-stonic-1-0-turbo-comfort",
+      "source": "kia",
+      "scraped_date": "2026-09-15T15:20:25.282557"
     }
   ]
 }
