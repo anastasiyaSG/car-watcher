@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-09-11T11:36:11.441358",
-  "total_cars": 162,
+  "last_scraped": "2026-09-15T10:40:04.966988",
+  "total_cars": 163,
   "nissan_count": 59,
-  "kia_count": 103,
+  "kia_count": 104,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -1299,6 +1299,14 @@
       "link": "https://kia.bg/bg/used-cars/596/kia-sportage-1-6-t-gdi-4h4-ex-garancija",
       "source": "kia",
       "scraped_date": "2026-09-11T11:36:05.959930"
+    },
+    {
+      "id": "/bg/used-cars/599/kia-sportage-1-6-t-gdi-ex-black-edition-garancija",
+      "title": "Kia Sportage 1.6 T-gdi EX Black Edition Гаранция",
+      "price": "Цена 20990 € не се начислява ДДС",
+      "link": "https://kia.bg/bg/used-cars/599/kia-sportage-1-6-t-gdi-ex-black-edition-garancija",
+      "source": "kia",
+      "scraped_date": "2026-09-15T10:39:55.858467"
     }
   ]
 }
