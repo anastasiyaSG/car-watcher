@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-09-15T15:20:30.698925",
-  "total_cars": 166,
-  "nissan_count": 59,
-  "kia_count": 107,
+  "last_scraped": "2026-09-16T10:09:25.914585",
+  "total_cars": 170,
+  "nissan_count": 60,
+  "kia_count": 110,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -1331,6 +1331,38 @@
       "link": "https://kia.bg/bg/used-cars/585/kia-stonic-1-0-turbo-comfort",
       "source": "kia",
       "scraped_date": "2026-09-15T15:20:25.282557"
+    },
+    {
+      "id": "https://www.omnicar.nissan.bg/catalog/498-nissan-qashqai",
+      "title": "Nissan Qashqai E-Power Tekna 4x2 #52",
+      "price": "€ 28 390,00",
+      "link": "https://www.omnicar.nissan.bg/catalog/498-nissan-qashqai",
+      "source": "nissan",
+      "scraped_date": "2026-09-16T10:09:17.207900"
+    },
+    {
+      "id": "/bg/used-cars/603/kia-rio-1-2-cvvt-garancija",
+      "title": "Kia Rio 1.2 cvvt Гаранция",
+      "price": "Цена 9990 € с ДДС",
+      "link": "https://kia.bg/bg/used-cars/603/kia-rio-1-2-cvvt-garancija",
+      "source": "kia",
+      "scraped_date": "2026-09-16T10:09:16.492252"
+    },
+    {
+      "id": "/bg/used-cars/605/peugeot-2008-1-2-pure-tech",
+      "title": "Peugeot 2008 1.2 PureTech",
+      "price": "Цена 14490 € не се начислява ДДС",
+      "link": "https://kia.bg/bg/used-cars/605/peugeot-2008-1-2-pure-tech",
+      "source": "kia",
+      "scraped_date": "2026-09-16T10:09:16.565183"
+    },
+    {
+      "id": "/bg/used-cars/604/kia-sportage-1-6-crdi-garanci-ja",
+      "title": "Kia Sportage 1.6 crdi ГАРАНЦИЯ",
+      "price": "Цена 25990 € с ДДС",
+      "link": "https://kia.bg/bg/used-cars/604/kia-sportage-1-6-crdi-garanci-ja",
+      "source": "kia",
+      "scraped_date": "2026-09-16T10:09:19.819904"
     }
   ]
 }
