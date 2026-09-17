@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-09-16T10:09:25.914585",
-  "total_cars": 170,
+  "last_scraped": "2026-09-17T08:47:29.216619",
+  "total_cars": 176,
   "nissan_count": 60,
-  "kia_count": 110,
+  "kia_count": 116,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -1363,6 +1363,54 @@
       "link": "https://kia.bg/bg/used-cars/604/kia-sportage-1-6-crdi-garanci-ja",
       "source": "kia",
       "scraped_date": "2026-09-16T10:09:19.819904"
+    },
+    {
+      "id": "/bg/used-cars/606/land-rover-range-rover-evoque-2-2-d",
+      "title": "Land Rover Range Rover Evoque 2.2 TD4",
+      "price": "Цена 9990 € не се начислява ДДС",
+      "link": "https://kia.bg/bg/used-cars/606/land-rover-range-rover-evoque-2-2-d",
+      "source": "kia",
+      "scraped_date": "2026-09-17T08:47:18.269640"
+    },
+    {
+      "id": "/bg/used-cars/610/kia-stonic-1-0-turbo-garancija",
+      "title": "Kia Stonic 1.0 Турбо EX Гаранция",
+      "price": "Цена 13490 € с ДДС",
+      "link": "https://kia.bg/bg/used-cars/610/kia-stonic-1-0-turbo-garancija",
+      "source": "kia",
+      "scraped_date": "2026-09-17T08:47:18.313552"
+    },
+    {
+      "id": "/bg/used-cars/611/opel-corsa-1-2-edition",
+      "title": "Opel Corsa 1.2  Edition",
+      "price": "Цена 14990 € с ДДС",
+      "link": "https://kia.bg/bg/used-cars/611/opel-corsa-1-2-edition",
+      "source": "kia",
+      "scraped_date": "2026-09-17T08:47:18.349238"
+    },
+    {
+      "id": "/bg/used-cars/609/kia-sportage-1-6-t-gdi-ex-4x4-garancija",
+      "title": "Kia Sportage 1.6 T-gdi EX 4x4 Гаранция",
+      "price": "Цена 19990 € с ДДС",
+      "link": "https://kia.bg/bg/used-cars/609/kia-sportage-1-6-t-gdi-ex-4x4-garancija",
+      "source": "kia",
+      "scraped_date": "2026-09-17T08:47:21.075107"
+    },
+    {
+      "id": "/bg/used-cars/608/kia-x-ceed-1-5-t-gdi-ex-garancija",
+      "title": "Kia XCeed 1.5 T-gdi EX Гаранция",
+      "price": "Цена 21990 € с ДДС",
+      "link": "https://kia.bg/bg/used-cars/608/kia-x-ceed-1-5-t-gdi-ex-garancija",
+      "source": "kia",
+      "scraped_date": "2026-09-17T08:47:23.760714"
+    },
+    {
+      "id": "/bg/used-cars/607/kia-sportage-1-6-crdi",
+      "title": "Kia Sportage 1.6 crdi Comfort",
+      "price": "Цена 24990 € с ДДС",
+      "link": "https://kia.bg/bg/used-cars/607/kia-sportage-1-6-crdi",
+      "source": "kia",
+      "scraped_date": "2026-09-17T08:47:23.770661"
     }
   ]
 }
