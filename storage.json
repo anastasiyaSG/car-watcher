@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-09-17T08:47:29.216619",
-  "total_cars": 176,
+  "last_scraped": "2026-09-18T11:32:03.365274",
+  "total_cars": 178,
   "nissan_count": 60,
-  "kia_count": 116,
+  "kia_count": 118,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -1411,6 +1411,22 @@
       "link": "https://kia.bg/bg/used-cars/607/kia-sportage-1-6-crdi",
       "source": "kia",
       "scraped_date": "2026-09-17T08:47:23.770661"
+    },
+    {
+      "id": "/bg/used-cars/613/kia-rio-1-2-cvvt-garancija",
+      "title": "Kia Rio 1.2 cvvt Гаранция",
+      "price": "Цена 8990 € с ДДС",
+      "link": "https://kia.bg/bg/used-cars/613/kia-rio-1-2-cvvt-garancija",
+      "source": "kia",
+      "scraped_date": "2026-09-18T11:31:52.322998"
+    },
+    {
+      "id": "/bg/used-cars/612/kia-stinger-3-3-t-gdi-gt-line-4h4-garancija",
+      "title": "Kia Stinger 3.3 T-gdi GT 4х4 Гаранция",
+      "price": "Цена 34990 € с ДДС",
+      "link": "https://kia.bg/bg/used-cars/612/kia-stinger-3-3-t-gdi-gt-line-4h4-garancija",
+      "source": "kia",
+      "scraped_date": "2026-09-18T11:32:00.622249"
     }
   ]
 }
