@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-09-18T11:32:03.365274",
-  "total_cars": 178,
+  "last_scraped": "2026-09-21T15:12:45.281641",
+  "total_cars": 179,
   "nissan_count": 60,
-  "kia_count": 118,
+  "kia_count": 119,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -1427,6 +1427,14 @@
       "link": "https://kia.bg/bg/used-cars/612/kia-stinger-3-3-t-gdi-gt-line-4h4-garancija",
       "source": "kia",
       "scraped_date": "2026-09-18T11:32:00.622249"
+    },
+    {
+      "id": "/bg/used-cars/577/kia-ceed-sw-1-5-t-gdi",
+      "title": "Kia Ceed SW 1.5 T-gdi",
+      "price": "Цена 19990 € с ДДС",
+      "link": "https://kia.bg/bg/used-cars/577/kia-ceed-sw-1-5-t-gdi",
+      "source": "kia",
+      "scraped_date": "2026-09-21T15:12:37.414594"
     }
   ]
 }
