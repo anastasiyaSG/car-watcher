@@ -1,7 +1,7 @@
 {
-  "last_scraped": "2026-09-21T15:12:45.281641",
-  "total_cars": 179,
-  "nissan_count": 60,
+  "last_scraped": "2026-09-28T07:55:46.045822",
+  "total_cars": 180,
+  "nissan_count": 61,
   "kia_count": 119,
   "cars": [
     {
@@ -1435,6 +1435,14 @@
       "link": "https://kia.bg/bg/used-cars/577/kia-ceed-sw-1-5-t-gdi",
       "source": "kia",
       "scraped_date": "2026-09-21T15:12:37.414594"
+    },
+    {
+      "id": "https://www.omnicar.nissan.bg/catalog/499-nissan-qashqai",
+      "title": "Nissan Qashqai 1.3 N-Connecta A/T #53",
+      "price": "€ 22 690,00",
+      "link": "https://www.omnicar.nissan.bg/catalog/499-nissan-qashqai",
+      "source": "nissan",
+      "scraped_date": "2026-09-28T07:55:32.226303"
     }
   ]
 }
