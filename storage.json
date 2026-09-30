@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-09-29T08:46:43.126167",
-  "total_cars": 182,
+  "last_scraped": "2026-09-30T09:09:16.150574",
+  "total_cars": 183,
   "nissan_count": 62,
-  "kia_count": 120,
+  "kia_count": 121,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -1459,6 +1459,14 @@
       "link": "https://kia.bg/bg/used-cars/615/kia-xceed-1-5-t-gdi-executive",
       "source": "kia",
       "scraped_date": "2026-09-29T08:46:37.688950"
+    },
+    {
+      "id": "/bg/used-cars/616/bmw-x1-s-drive18d",
+      "title": "BMW X1   sDrive18d",
+      "price": "Цена 29700 € с ДДС",
+      "link": "https://kia.bg/bg/used-cars/616/bmw-x1-s-drive18d",
+      "source": "kia",
+      "scraped_date": "2026-09-30T09:09:13.246750"
     }
   ]
 }
