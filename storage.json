@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-09-30T09:09:16.150574",
-  "total_cars": 183,
-  "nissan_count": 62,
-  "kia_count": 121,
+  "last_scraped": "2026-10-01T13:36:58.148301",
+  "total_cars": 185,
+  "nissan_count": 63,
+  "kia_count": 122,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -1467,6 +1467,22 @@
       "link": "https://kia.bg/bg/used-cars/616/bmw-x1-s-drive18d",
       "source": "kia",
       "scraped_date": "2026-09-30T09:09:13.246750"
+    },
+    {
+      "id": "https://www.omnicar.nissan.bg/catalog/501-nissan-qashqai",
+      "title": "Nissan Qashqai 1.3 N-Connecta ProPilot A/T #55",
+      "price": "€ 19 890,00",
+      "link": "https://www.omnicar.nissan.bg/catalog/501-nissan-qashqai",
+      "source": "nissan",
+      "scraped_date": "2026-10-01T13:36:47.728786"
+    },
+    {
+      "id": "/bg/used-cars/423/kia-ceed-sw-1-5-t-gdi-comfort",
+      "title": "Kia Ceed SW 1,5 T-gdi Comfort",
+      "price": "Цена 13990 € с ДДС",
+      "link": "https://kia.bg/bg/used-cars/423/kia-ceed-sw-1-5-t-gdi-comfort",
+      "source": "kia",
+      "scraped_date": "2026-10-01T13:36:46.333815"
     }
   ]
 }
