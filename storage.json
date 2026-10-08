@@ -1,7 +1,7 @@
 {
-  "last_scraped": "2026-10-06T13:45:57.440751",
-  "total_cars": 187,
-  "nissan_count": 64,
+  "last_scraped": "2026-10-08T16:39:40.326946",
+  "total_cars": 189,
+  "nissan_count": 66,
   "kia_count": 123,
   "cars": [
     {
@@ -1499,6 +1499,22 @@
       "link": "https://kia.bg/bg/used-cars/607/kia-sportage-1-6-t-gdi-comfort",
       "source": "kia",
       "scraped_date": "2026-10-06T13:45:51.563609"
+    },
+    {
+      "id": "https://www.omnicar.nissan.bg/catalog/504-nissan-ariya",
+      "title": "Nissan Ariya 87kWh Evolve 4x4 Nappa Leather #58",
+      "price": "€ 51 990,00",
+      "link": "https://www.omnicar.nissan.bg/catalog/504-nissan-ariya",
+      "source": "nissan",
+      "scraped_date": "2026-10-08T16:39:30.519642"
+    },
+    {
+      "id": "https://www.omnicar.nissan.bg/catalog/503-nissan-ariya",
+      "title": "Nissan Ariya 87kWh Evolve #57",
+      "price": "€ 47 000,00",
+      "link": "https://www.omnicar.nissan.bg/catalog/503-nissan-ariya",
+      "source": "nissan",
+      "scraped_date": "2026-10-08T16:39:30.530211"
     }
   ]
 }
