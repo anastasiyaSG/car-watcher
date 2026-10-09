@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-10-08T16:39:40.326946",
-  "total_cars": 189,
+  "last_scraped": "2026-10-09T15:23:39.458007",
+  "total_cars": 190,
   "nissan_count": 66,
-  "kia_count": 123,
+  "kia_count": 124,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -1515,6 +1515,14 @@
       "link": "https://www.omnicar.nissan.bg/catalog/503-nissan-ariya",
       "source": "nissan",
       "scraped_date": "2026-10-08T16:39:30.530211"
+    },
+    {
+      "id": "/bg/used-cars/617/kia-xceed-1-4-t-gdi-ex",
+      "title": "Kia Xceed 1.4 T-gdi  EX",
+      "price": "Цена 16490 € не се начислява ДДС",
+      "link": "https://kia.bg/bg/used-cars/617/kia-xceed-1-4-t-gdi-ex",
+      "source": "kia",
+      "scraped_date": "2026-10-09T15:23:31.258270"
     }
   ]
 }
