@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-10-13T17:14:07.185420",
-  "total_cars": 194,
+  "last_scraped": "2026-10-15T11:48:35.645722",
+  "total_cars": 195,
   "nissan_count": 68,
-  "kia_count": 126,
+  "kia_count": 127,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -1555,6 +1555,14 @@
       "link": "https://kia.bg/bg/used-cars/356/k-ia-stonic-1-2-ex-6mt",
       "source": "kia",
       "scraped_date": "2026-10-13T17:13:53.286695"
+    },
+    {
+      "id": "/bg/used-cars/356/k-ia-stonic-1-0-turbo-ex-6mt",
+      "title": "KIa Stonic 1.0 Turbo EX 6MT",
+      "price": "Цена 12880 € с ДДС",
+      "link": "https://kia.bg/bg/used-cars/356/k-ia-stonic-1-0-turbo-ex-6mt",
+      "source": "kia",
+      "scraped_date": "2026-10-15T11:48:20.439271"
     }
   ]
 }
