@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-10-21T10:48:25.697441",
-  "total_cars": 196,
+  "last_scraped": "2026-10-21T15:43:59.536264",
+  "total_cars": 197,
   "nissan_count": 68,
-  "kia_count": 128,
+  "kia_count": 129,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -1571,6 +1571,14 @@
       "link": "https://kia.bg/bg/used-cars/381/kia-xceed-1-5-t-gdi-eh",
       "source": "kia",
       "scraped_date": "2026-10-21T10:48:17.497200"
+    },
+    {
+      "id": "/bg/used-cars/347/kia-rio-1-2-cvvt",
+      "title": "Kia Rio 1.2  cvvt ГАРАНЦИЯ",
+      "price": "Цена 9000 € с ДДС",
+      "link": "https://kia.bg/bg/used-cars/347/kia-rio-1-2-cvvt",
+      "source": "kia",
+      "scraped_date": "2026-10-21T15:43:43.405393"
     }
   ]
 }
