@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-10-21T15:43:59.536264",
-  "total_cars": 197,
+  "last_scraped": "2026-10-22T12:11:16.772530",
+  "total_cars": 202,
   "nissan_count": 68,
-  "kia_count": 129,
+  "kia_count": 134,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -1579,6 +1579,46 @@
       "link": "https://kia.bg/bg/used-cars/347/kia-rio-1-2-cvvt",
       "source": "kia",
       "scraped_date": "2026-10-21T15:43:43.405393"
+    },
+    {
+      "id": "/bg/used-cars/619/renault-clio-1-0-turbo-garanci-ja",
+      "title": "Renault Clio 1.0 ТУРБО ГАРАНЦИЯ",
+      "price": "Цена 11990 € не се начислява ДДС",
+      "link": "https://kia.bg/bg/used-cars/619/renault-clio-1-0-turbo-garanci-ja",
+      "source": "kia",
+      "scraped_date": "2026-10-22T12:10:51.318384"
+    },
+    {
+      "id": "/bg/used-cars/450/skoda-octavia-1-5-tsi-garancija",
+      "title": "Skoda Octavia 1.5 TSI Гаранция",
+      "price": "Цена 17900 € с ДДС",
+      "link": "https://kia.bg/bg/used-cars/450/skoda-octavia-1-5-tsi-garancija",
+      "source": "kia",
+      "scraped_date": "2026-10-22T12:10:54.086229"
+    },
+    {
+      "id": "/bg/used-cars/340/skoda-octavia-1-5-tsi-sw-garancija",
+      "title": "Skoda Octavia 1.5 TSI SW Гаранция",
+      "price": "Цена 17900 € не се начислява ДДС",
+      "link": "https://kia.bg/bg/used-cars/340/skoda-octavia-1-5-tsi-sw-garancija",
+      "source": "kia",
+      "scraped_date": "2026-10-22T12:10:54.095749"
+    },
+    {
+      "id": "/bg/used-cars/620/toyota-c-hr-1-8-hybrid",
+      "title": "Toyota C-HR 1.8 HYBRID",
+      "price": "Цена 19990 € не се начислява ДДС",
+      "link": "https://kia.bg/bg/used-cars/620/toyota-c-hr-1-8-hybrid",
+      "source": "kia",
+      "scraped_date": "2026-10-22T12:10:56.738018"
+    },
+    {
+      "id": "/bg/used-cars/623/hyundai-kona",
+      "title": "Hyundai Kona",
+      "price": "Цена 19990 € не се начислява ДДС",
+      "link": "https://kia.bg/bg/used-cars/623/hyundai-kona",
+      "source": "kia",
+      "scraped_date": "2026-10-22T12:10:56.747550"
     }
   ]
 }
