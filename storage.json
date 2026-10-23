@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-10-22T12:11:16.772530",
-  "total_cars": 202,
-  "nissan_count": 68,
-  "kia_count": 134,
+  "last_scraped": "2026-10-23T07:50:07.875270",
+  "total_cars": 204,
+  "nissan_count": 69,
+  "kia_count": 135,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -1619,6 +1619,22 @@
       "link": "https://kia.bg/bg/used-cars/623/hyundai-kona",
       "source": "kia",
       "scraped_date": "2026-10-22T12:10:56.747550"
+    },
+    {
+      "id": "https://www.omnicar.nissan.bg/catalog/507-nissan-qashqai",
+      "title": "Nissan Qashqai 1.3 DIG-T Acenta Plus A/T #61",
+      "price": "€ 14 890,00",
+      "link": "https://www.omnicar.nissan.bg/catalog/507-nissan-qashqai",
+      "source": "nissan",
+      "scraped_date": "2026-10-23T07:49:54.311723"
+    },
+    {
+      "id": "/bg/used-cars/624/toyota-yaris-cross",
+      "title": "Toyota Yaris Cross",
+      "price": "Цена 11990 € не се начислява ДДС",
+      "link": "https://kia.bg/bg/used-cars/624/toyota-yaris-cross",
+      "source": "kia",
+      "scraped_date": "2026-10-23T07:49:53.248471"
     }
   ]
 }
