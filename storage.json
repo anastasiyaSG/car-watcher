@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-10-23T07:50:07.875270",
-  "total_cars": 204,
-  "nissan_count": 69,
-  "kia_count": 135,
+  "last_scraped": "2026-10-23T12:57:12.039590",
+  "total_cars": 206,
+  "nissan_count": 70,
+  "kia_count": 136,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -1635,6 +1635,22 @@
       "link": "https://kia.bg/bg/used-cars/624/toyota-yaris-cross",
       "source": "kia",
       "scraped_date": "2026-10-23T07:49:53.248471"
+    },
+    {
+      "id": "https://www.omnicar.nissan.bg/catalog/508-nissan-qashqai",
+      "title": "Nissan Qashqai 1.3 N-Design A/T #62",
+      "price": "€ 30 000,00",
+      "link": "https://www.omnicar.nissan.bg/catalog/508-nissan-qashqai",
+      "source": "nissan",
+      "scraped_date": "2026-10-23T12:56:59.239043"
+    },
+    {
+      "id": "/bg/used-cars/625/toyota-proace",
+      "title": "Toyota Proace",
+      "price": "Цена 22900 € не се начислява ДДС",
+      "link": "https://kia.bg/bg/used-cars/625/toyota-proace",
+      "source": "kia",
+      "scraped_date": "2026-10-23T12:57:06.269266"
     }
   ]
 }
