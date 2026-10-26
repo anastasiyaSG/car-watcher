@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-10-23T12:57:12.039590",
-  "total_cars": 206,
+  "last_scraped": "2026-10-26T13:43:12.790240",
+  "total_cars": 207,
   "nissan_count": 70,
-  "kia_count": 136,
+  "kia_count": 137,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -1651,6 +1651,14 @@
       "link": "https://kia.bg/bg/used-cars/625/toyota-proace",
       "source": "kia",
       "scraped_date": "2026-10-23T12:57:06.269266"
+    },
+    {
+      "id": "/bg/used-cars/627/kia-picanto",
+      "title": "Kia Picanto",
+      "price": "Цена 9450 € не се начислява ДДС",
+      "link": "https://kia.bg/bg/used-cars/627/kia-picanto",
+      "source": "kia",
+      "scraped_date": "2026-10-26T13:42:59.032656"
     }
   ]
 }
