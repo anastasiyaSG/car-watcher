@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-10-26T13:43:12.790240",
-  "total_cars": 207,
+  "last_scraped": "2026-10-26T19:39:06.549857",
+  "total_cars": 208,
   "nissan_count": 70,
-  "kia_count": 137,
+  "kia_count": 138,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -1659,6 +1659,14 @@
       "link": "https://kia.bg/bg/used-cars/627/kia-picanto",
       "source": "kia",
       "scraped_date": "2026-10-26T13:42:59.032656"
+    },
+    {
+      "id": "/bg/used-cars/212/kia-ceed-1-4-t-gdi-ex",
+      "title": "Kia Ceed  1.4 T-gdi EX",
+      "price": "Цена 14990 € с ДДС",
+      "link": "https://kia.bg/bg/used-cars/212/kia-ceed-1-4-t-gdi-ex",
+      "source": "kia",
+      "scraped_date": "2026-10-26T19:38:55.070771"
     }
   ]
 }
