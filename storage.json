@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-10-27T08:06:02.879185",
-  "total_cars": 209,
+  "last_scraped": "2026-10-27T14:44:57.223005",
+  "total_cars": 211,
   "nissan_count": 70,
-  "kia_count": 139,
+  "kia_count": 141,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -1675,6 +1675,22 @@
       "link": "https://kia.bg/bg/used-cars/628/kia-niro-1-6-phev",
       "source": "kia",
       "scraped_date": "2026-10-27T08:05:54.676657"
+    },
+    {
+      "id": "/bg/used-cars/613/kia-rio-1-2-cvvt",
+      "title": "Kia Rio 1.2 cvvt",
+      "price": "Цена 6990 € с ДДС",
+      "link": "https://kia.bg/bg/used-cars/613/kia-rio-1-2-cvvt",
+      "source": "kia",
+      "scraped_date": "2026-10-27T14:44:39.290457"
+    },
+    {
+      "id": "/bg/used-cars/442/kia-sorento-2-2-crdi-4x4-garancija",
+      "title": "Kia Sorento 2.2 crdi  4x4 Гаранция",
+      "price": "Цена 26990 € с ДДС",
+      "link": "https://kia.bg/bg/used-cars/442/kia-sorento-2-2-crdi-4x4-garancija",
+      "source": "kia",
+      "scraped_date": "2026-10-27T14:44:51.303653"
     }
   ]
 }
