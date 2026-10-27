@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-10-26T19:39:06.549857",
-  "total_cars": 208,
+  "last_scraped": "2026-10-27T08:06:02.879185",
+  "total_cars": 209,
   "nissan_count": 70,
-  "kia_count": 138,
+  "kia_count": 139,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -1667,6 +1667,14 @@
       "link": "https://kia.bg/bg/used-cars/212/kia-ceed-1-4-t-gdi-ex",
       "source": "kia",
       "scraped_date": "2026-10-26T19:38:55.070771"
+    },
+    {
+      "id": "/bg/used-cars/628/kia-niro-1-6-phev",
+      "title": "Kia Niro 1.6 PHEV",
+      "price": "Цена 23990 € не се начислява ДДС",
+      "link": "https://kia.bg/bg/used-cars/628/kia-niro-1-6-phev",
+      "source": "kia",
+      "scraped_date": "2026-10-27T08:05:54.676657"
     }
   ]
 }
