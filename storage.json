@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-10-27T14:44:57.223005",
-  "total_cars": 211,
+  "last_scraped": "2026-10-28T08:49:52.964445",
+  "total_cars": 212,
   "nissan_count": 70,
-  "kia_count": 141,
+  "kia_count": 142,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -1691,6 +1691,14 @@
       "link": "https://kia.bg/bg/used-cars/442/kia-sorento-2-2-crdi-4x4-garancija",
       "source": "kia",
       "scraped_date": "2026-10-27T14:44:51.303653"
+    },
+    {
+      "id": "/bg/used-cars/630/opel-mokka-1-2-garancija",
+      "title": "Opel Mokka 1.2 Гаранция",
+      "price": "Цена 16990 € не се начислява ДДС",
+      "link": "https://kia.bg/bg/used-cars/630/opel-mokka-1-2-garancija",
+      "source": "kia",
+      "scraped_date": "2026-10-28T08:49:41.427265"
     }
   ]
 }
