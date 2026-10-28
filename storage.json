@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-10-28T08:49:52.964445",
-  "total_cars": 212,
+  "last_scraped": "2026-10-28T15:36:35.817729",
+  "total_cars": 214,
   "nissan_count": 70,
-  "kia_count": 142,
+  "kia_count": 144,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -1699,6 +1699,22 @@
       "link": "https://kia.bg/bg/used-cars/630/opel-mokka-1-2-garancija",
       "source": "kia",
       "scraped_date": "2026-10-28T08:49:41.427265"
+    },
+    {
+      "id": "/bg/used-cars/632/kia-ceed-1-5-t-gdi-garancija",
+      "title": "Kia Ceed 1.5 T-gdi Гаранция",
+      "price": "Цена 16990 € с ДДС",
+      "link": "https://kia.bg/bg/used-cars/632/kia-ceed-1-5-t-gdi-garancija",
+      "source": "kia",
+      "scraped_date": "2026-10-28T15:36:24.768166"
+    },
+    {
+      "id": "/bg/used-cars/631/kia-sportage-1-6-hev-gt-line",
+      "title": "Kia Sportage 1.6 HEV GT-line",
+      "price": "Цена 42990 € с ДДС",
+      "link": "https://kia.bg/bg/used-cars/631/kia-sportage-1-6-hev-gt-line",
+      "source": "kia",
+      "scraped_date": "2026-10-28T15:36:33.122514"
     }
   ]
 }
