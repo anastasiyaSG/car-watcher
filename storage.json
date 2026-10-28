@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-10-28T15:36:35.817729",
-  "total_cars": 214,
+  "last_scraped": "2026-10-28T20:40:51.456865",
+  "total_cars": 215,
   "nissan_count": 70,
-  "kia_count": 144,
+  "kia_count": 145,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -1715,6 +1715,14 @@
       "link": "https://kia.bg/bg/used-cars/631/kia-sportage-1-6-hev-gt-line",
       "source": "kia",
       "scraped_date": "2026-10-28T15:36:33.122514"
+    },
+    {
+      "id": "/bg/used-cars/627/kia-picanto-1-2",
+      "title": "Kia Picanto 1.2",
+      "price": "Цена 9450 € с ДДС",
+      "link": "https://kia.bg/bg/used-cars/627/kia-picanto-1-2",
+      "source": "kia",
+      "scraped_date": "2026-10-28T20:40:34.309860"
     }
   ]
 }
