@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-10-30T09:15:50.003285",
-  "total_cars": 216,
+  "last_scraped": "2026-11-02T16:40:46.786184",
+  "total_cars": 217,
   "nissan_count": 70,
-  "kia_count": 146,
+  "kia_count": 147,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -1731,6 +1731,14 @@
       "link": "https://kia.bg/bg/used-cars/628/kia-niro-1-6-phev-gt-line-garancija",
       "source": "kia",
       "scraped_date": "2026-10-30T09:15:42.208557"
+    },
+    {
+      "id": "/bg/used-cars/633/kia-sportage-1-6t-4x4-garancija",
+      "title": "Kia Sportage 1.6T 4x4 Гаранция",
+      "price": "Цена 17990 € с ДДС",
+      "link": "https://kia.bg/bg/used-cars/633/kia-sportage-1-6t-4x4-garancija",
+      "source": "kia",
+      "scraped_date": "2026-11-02T16:40:35.470792"
     }
   ]
 }
