@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-11-03T12:28:57.866790",
-  "total_cars": 218,
+  "last_scraped": "2026-11-04T14:57:14.419674",
+  "total_cars": 221,
   "nissan_count": 70,
-  "kia_count": 148,
+  "kia_count": 151,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -1747,6 +1747,30 @@
       "link": "https://kia.bg/bg/used-cars/426/kia-sportage-1-6-t-gdi-ex-4x4-garancija",
       "source": "kia",
       "scraped_date": "2026-11-03T12:28:49.687567"
+    },
+    {
+      "id": "/bg/used-cars/508/kia-sportage-1-6-t-gdi-mhev-gt-line-4x4",
+      "title": "Kia Sportage 1.6 T-GDI MHEV  GT-line  4x4",
+      "price": "Цена 22990 € с ДДС",
+      "link": "https://kia.bg/bg/used-cars/508/kia-sportage-1-6-t-gdi-mhev-gt-line-4x4",
+      "source": "kia",
+      "scraped_date": "2026-11-04T14:57:06.723087"
+    },
+    {
+      "id": "/bg/used-cars/452/kia-sportage-1-6-t-gdi-mhev-gt-line-4x4",
+      "title": "Kia Sportage 1.6T MHEV GT-line  4x4",
+      "price": "Цена 32990 € с ДДС",
+      "link": "https://kia.bg/bg/used-cars/452/kia-sportage-1-6-t-gdi-mhev-gt-line-4x4",
+      "source": "kia",
+      "scraped_date": "2026-11-04T14:57:11.937209"
+    },
+    {
+      "id": "/bg/used-cars/626/vw-multivan-2-0tdi-garancija",
+      "title": "VW Multivan 2.0TDI Гаранция",
+      "price": "Цена 44990 € с ДДС",
+      "link": "https://kia.bg/bg/used-cars/626/vw-multivan-2-0tdi-garancija",
+      "source": "kia",
+      "scraped_date": "2026-11-04T14:57:11.981201"
     }
   ]
 }
