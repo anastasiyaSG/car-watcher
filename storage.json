@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-11-04T14:57:14.419674",
-  "total_cars": 221,
+  "last_scraped": "2026-11-06T10:05:40.007080",
+  "total_cars": 222,
   "nissan_count": 70,
-  "kia_count": 151,
+  "kia_count": 152,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -1771,6 +1771,14 @@
       "link": "https://kia.bg/bg/used-cars/626/vw-multivan-2-0tdi-garancija",
       "source": "kia",
       "scraped_date": "2026-11-04T14:57:11.981201"
+    },
+    {
+      "id": "/bg/used-cars/546/kia-x-ceed-1-6t-gt-garancija",
+      "title": "Kia XCeed 1.6T GT Гаранция",
+      "price": "Цена 26990 € с ДДС",
+      "link": "https://kia.bg/bg/used-cars/546/kia-x-ceed-1-6t-gt-garancija",
+      "source": "kia",
+      "scraped_date": "2026-11-06T10:05:34.298657"
     }
   ]
 }
