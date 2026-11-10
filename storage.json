@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-11-06T10:05:40.007080",
-  "total_cars": 222,
-  "nissan_count": 70,
-  "kia_count": 152,
+  "last_scraped": "2026-11-10T15:55:53.674610",
+  "total_cars": 224,
+  "nissan_count": 71,
+  "kia_count": 153,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -1779,6 +1779,22 @@
       "link": "https://kia.bg/bg/used-cars/546/kia-x-ceed-1-6t-gt-garancija",
       "source": "kia",
       "scraped_date": "2026-11-06T10:05:34.298657"
+    },
+    {
+      "id": "https://www.omnicar.nissan.bg/catalog/509-nissan-qashqai",
+      "title": "Nissan Qashqai 1.3DDT DCT N-Connecta Plus",
+      "price": "€ 16 600,00",
+      "link": "https://www.omnicar.nissan.bg/catalog/509-nissan-qashqai",
+      "source": "nissan",
+      "scraped_date": "2026-11-10T15:55:35.903020"
+    },
+    {
+      "id": "/bg/used-cars/330/kia-ceed-1-5-t-gdi-comfort-garancija",
+      "title": "Kia Ceed 1.5 T-gdi COMFORT Гаранция",
+      "price": "Цена 15990 € с ДДС",
+      "link": "https://kia.bg/bg/used-cars/330/kia-ceed-1-5-t-gdi-comfort-garancija",
+      "source": "kia",
+      "scraped_date": "2026-11-10T15:55:38.756948"
     }
   ]
 }
