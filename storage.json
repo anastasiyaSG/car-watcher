@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-11-11T08:36:58.895379",
-  "total_cars": 225,
+  "last_scraped": "2026-11-11T16:45:28.665732",
+  "total_cars": 226,
   "nissan_count": 72,
-  "kia_count": 153,
+  "kia_count": 154,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -1803,6 +1803,14 @@
       "link": "https://www.omnicar.nissan.bg/catalog/510-nissan-qashqai",
       "source": "nissan",
       "scraped_date": "2026-11-11T08:36:43.124521"
+    },
+    {
+      "id": "/bg/used-cars/526/kia-niro-hev-gt-line-garancija",
+      "title": "Kia Niro HEV GT-line Гаранция",
+      "price": "Цена 31990 € с ДДС",
+      "link": "https://kia.bg/bg/used-cars/526/kia-niro-hev-gt-line-garancija",
+      "source": "kia",
+      "scraped_date": "2026-11-11T16:45:25.864058"
     }
   ]
 }
