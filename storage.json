@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-11-12T12:05:52.848230",
-  "total_cars": 227,
+  "last_scraped": "2026-11-13T08:17:43.958760",
+  "total_cars": 228,
   "nissan_count": 72,
-  "kia_count": 155,
+  "kia_count": 156,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -1819,6 +1819,14 @@
       "link": "https://kia.bg/bg/used-cars/615/kia-xceed-1-5-t-gdi-ex-garanci-ja",
       "source": "kia",
       "scraped_date": "2026-11-12T12:05:44.730054"
+    },
+    {
+      "id": "/bg/used-cars/419/kia-ceed-sw-1-4t-garancija",
+      "title": "Kia Ceed SW 1.4T Гаранция",
+      "price": "Цена 11990 € с ДДС",
+      "link": "https://kia.bg/bg/used-cars/419/kia-ceed-sw-1-4t-garancija",
+      "source": "kia",
+      "scraped_date": "2026-11-13T08:17:29.188633"
     }
   ]
 }
