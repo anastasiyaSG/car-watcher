@@ -1,8 +1,8 @@
 {
-  "last_scraped": "2026-11-13T08:17:43.958760",
-  "total_cars": 228,
+  "last_scraped": "2026-11-16T16:37:25.871641",
+  "total_cars": 229,
   "nissan_count": 72,
-  "kia_count": 156,
+  "kia_count": 157,
   "cars": [
     {
       "id": "https://www.omnicar.nissan.bg/catalog/463-nissan-xtrail",
@@ -1827,6 +1827,14 @@
       "link": "https://kia.bg/bg/used-cars/419/kia-ceed-sw-1-4t-garancija",
       "source": "kia",
       "scraped_date": "2026-11-13T08:17:29.188633"
+    },
+    {
+      "id": "/bg/used-cars/338/kia-rio-1-0t-aut-garancija",
+      "title": "Kia Rio 1.0T AUT Гаранция",
+      "price": "Цена 9990 € с ДДС",
+      "link": "https://kia.bg/bg/used-cars/338/kia-rio-1-0t-aut-garancija",
+      "source": "kia",
+      "scraped_date": "2026-11-16T16:37:07.820396"
     }
   ]
 }
