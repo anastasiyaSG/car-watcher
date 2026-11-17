@@ -1,7 +1,7 @@
 {
-  "last_scraped": "2026-11-16T16:37:25.871641",
-  "total_cars": 229,
-  "nissan_count": 72,
+  "last_scraped": "2026-11-17T17:58:56.219900",
+  "total_cars": 230,
+  "nissan_count": 73,
   "kia_count": 157,
   "cars": [
     {
@@ -1835,6 +1835,14 @@
       "link": "https://kia.bg/bg/used-cars/338/kia-rio-1-0t-aut-garancija",
       "source": "kia",
       "scraped_date": "2026-11-16T16:37:07.820396"
+    },
+    {
+      "id": "https://www.omnicar.nissan.bg/catalog/511-nissan-qashqai",
+      "title": "Nissan Qashqai 1.3 Tekna 4x4 A/T #64",
+      "price": "€ 25 590,00",
+      "link": "https://www.omnicar.nissan.bg/catalog/511-nissan-qashqai",
+      "source": "nissan",
+      "scraped_date": "2026-11-17T17:58:39.150786"
     }
   ]
 }
