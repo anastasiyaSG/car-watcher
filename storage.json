@@ -1,7 +1,7 @@
 {
-  "last_scraped": "2026-11-17T17:58:56.219900",
-  "total_cars": 230,
-  "nissan_count": 73,
+  "last_scraped": "2026-11-18T17:24:08.116216",
+  "total_cars": 231,
+  "nissan_count": 74,
   "kia_count": 157,
   "cars": [
     {
@@ -1843,6 +1843,14 @@
       "link": "https://www.omnicar.nissan.bg/catalog/511-nissan-qashqai",
       "source": "nissan",
       "scraped_date": "2026-11-17T17:58:39.150786"
+    },
+    {
+      "id": "https://www.omnicar.nissan.bg/catalog/512-nissan-xtrail",
+      "title": "Nissan X-Trail 1.5 N-Connecta A/T #65",
+      "price": "€ 30 590,00",
+      "link": "https://www.omnicar.nissan.bg/catalog/512-nissan-xtrail",
+      "source": "nissan",
+      "scraped_date": "2026-11-18T17:23:50.231123"
     }
   ]
 }
